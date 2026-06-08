@@ -1,0 +1,2501 @@
+{
+  "language": "German",
+  "version": 2,
+  "words": [
+    {
+      "word": "eins",
+      "translation": "one",
+      "category": "numbers"
+    },
+    {
+      "word": "zwei",
+      "translation": "two",
+      "category": "numbers"
+    },
+    {
+      "word": "drei",
+      "translation": "three",
+      "category": "numbers"
+    },
+    {
+      "word": "vier",
+      "translation": "four",
+      "category": "numbers"
+    },
+    {
+      "word": "fünf",
+      "translation": "five",
+      "category": "numbers"
+    },
+    {
+      "word": "sechs",
+      "translation": "six",
+      "category": "numbers"
+    },
+    {
+      "word": "sieben",
+      "translation": "seven",
+      "category": "numbers"
+    },
+    {
+      "word": "acht",
+      "translation": "eight",
+      "category": "numbers"
+    },
+    {
+      "word": "neun",
+      "translation": "nine",
+      "category": "numbers"
+    },
+    {
+      "word": "zehn",
+      "translation": "ten",
+      "category": "numbers"
+    },
+    {
+      "word": "elf",
+      "translation": "eleven",
+      "category": "numbers"
+    },
+    {
+      "word": "zwölf",
+      "translation": "twelve",
+      "category": "numbers"
+    },
+    {
+      "word": "dreizehn",
+      "translation": "thirteen",
+      "category": "numbers"
+    },
+    {
+      "word": "vierzehn",
+      "translation": "fourteen",
+      "category": "numbers"
+    },
+    {
+      "word": "fünfzehn",
+      "translation": "fifteen",
+      "category": "numbers"
+    },
+    {
+      "word": "sechzehn",
+      "translation": "sixteen",
+      "category": "numbers"
+    },
+    {
+      "word": "siebzehn",
+      "translation": "seventeen",
+      "category": "numbers"
+    },
+    {
+      "word": "achtzehn",
+      "translation": "eighteen",
+      "category": "numbers"
+    },
+    {
+      "word": "neunzehn",
+      "translation": "nineteen",
+      "category": "numbers"
+    },
+    {
+      "word": "zwanzig",
+      "translation": "twenty",
+      "category": "numbers"
+    },
+    {
+      "word": "dreißig",
+      "translation": "thirty",
+      "category": "numbers"
+    },
+    {
+      "word": "vierzig",
+      "translation": "forty",
+      "category": "numbers"
+    },
+    {
+      "word": "fünfzig",
+      "translation": "fifty",
+      "category": "numbers"
+    },
+    {
+      "word": "sechzig",
+      "translation": "sixty",
+      "category": "numbers"
+    },
+    {
+      "word": "siebzig",
+      "translation": "seventy",
+      "category": "numbers"
+    },
+    {
+      "word": "achtzig",
+      "translation": "eighty",
+      "category": "numbers"
+    },
+    {
+      "word": "neunzig",
+      "translation": "ninety",
+      "category": "numbers"
+    },
+    {
+      "word": "hundert",
+      "translation": "hundred",
+      "category": "numbers"
+    },
+    {
+      "word": "tausend",
+      "translation": "thousand",
+      "category": "numbers"
+    },
+    {
+      "word": "Million",
+      "translation": "million",
+      "category": "numbers"
+    },
+    {
+      "word": "rot",
+      "translation": "red",
+      "category": "colors"
+    },
+    {
+      "word": "blau",
+      "translation": "blue",
+      "category": "colors"
+    },
+    {
+      "word": "grün",
+      "translation": "green",
+      "category": "colors"
+    },
+    {
+      "word": "gelb",
+      "translation": "yellow",
+      "category": "colors"
+    },
+    {
+      "word": "schwarz",
+      "translation": "black",
+      "category": "colors"
+    },
+    {
+      "word": "weiß",
+      "translation": "white",
+      "category": "colors"
+    },
+    {
+      "word": "orange",
+      "translation": "orange",
+      "category": "colors"
+    },
+    {
+      "word": "braun",
+      "translation": "brown",
+      "category": "colors"
+    },
+    {
+      "word": "rosa",
+      "translation": "pink",
+      "category": "colors"
+    },
+    {
+      "word": "lila",
+      "translation": "purple",
+      "category": "colors"
+    },
+    {
+      "word": "grau",
+      "translation": "gray",
+      "category": "colors"
+    },
+    {
+      "word": "Mutter",
+      "translation": "mother",
+      "category": "people"
+    },
+    {
+      "word": "Vater",
+      "translation": "father",
+      "category": "people"
+    },
+    {
+      "word": "Bruder",
+      "translation": "brother",
+      "category": "people"
+    },
+    {
+      "word": "Schwester",
+      "translation": "sister",
+      "category": "people"
+    },
+    {
+      "word": "Sohn",
+      "translation": "son",
+      "category": "people"
+    },
+    {
+      "word": "Tochter",
+      "translation": "daughter",
+      "category": "people"
+    },
+    {
+      "word": "Familie",
+      "translation": "family",
+      "category": "people"
+    },
+    {
+      "word": "Baby",
+      "translation": "baby",
+      "category": "people"
+    },
+    {
+      "word": "Mann",
+      "translation": "man",
+      "category": "people"
+    },
+    {
+      "word": "Frau",
+      "translation": "woman",
+      "category": "people"
+    },
+    {
+      "word": "Kind",
+      "translation": "child",
+      "category": "people"
+    },
+    {
+      "word": "Freund",
+      "translation": "friend",
+      "category": "people"
+    },
+    {
+      "word": "Leute",
+      "translation": "people",
+      "category": "people"
+    },
+    {
+      "word": "Ehemann",
+      "translation": "husband",
+      "category": "people"
+    },
+    {
+      "word": "Ehefrau",
+      "translation": "wife",
+      "category": "people"
+    },
+    {
+      "word": "Großvater",
+      "translation": "grandfather",
+      "category": "people"
+    },
+    {
+      "word": "Großmutter",
+      "translation": "grandmother",
+      "category": "people"
+    },
+    {
+      "word": "Onkel",
+      "translation": "uncle",
+      "category": "people"
+    },
+    {
+      "word": "Tante",
+      "translation": "aunt",
+      "category": "people"
+    },
+    {
+      "word": "Cousin",
+      "translation": "cousin",
+      "category": "people"
+    },
+    {
+      "word": "Nachbar",
+      "translation": "neighbor",
+      "category": "people"
+    },
+    {
+      "word": "Gast",
+      "translation": "guest",
+      "category": "people"
+    },
+    {
+      "word": "Hand",
+      "translation": "hand",
+      "category": "body"
+    },
+    {
+      "word": "Auge",
+      "translation": "eye",
+      "category": "body"
+    },
+    {
+      "word": "Kopf",
+      "translation": "head",
+      "category": "body"
+    },
+    {
+      "word": "Herz",
+      "translation": "heart",
+      "category": "body"
+    },
+    {
+      "word": "Fuß",
+      "translation": "foot",
+      "category": "body"
+    },
+    {
+      "word": "Bein",
+      "translation": "leg",
+      "category": "body"
+    },
+    {
+      "word": "Arm",
+      "translation": "arm",
+      "category": "body"
+    },
+    {
+      "word": "Finger",
+      "translation": "finger",
+      "category": "body"
+    },
+    {
+      "word": "Mund",
+      "translation": "mouth",
+      "category": "body"
+    },
+    {
+      "word": "Nase",
+      "translation": "nose",
+      "category": "body"
+    },
+    {
+      "word": "Ohr",
+      "translation": "ear",
+      "category": "body"
+    },
+    {
+      "word": "Haar",
+      "translation": "hair",
+      "category": "body"
+    },
+    {
+      "word": "Zahn",
+      "translation": "tooth",
+      "category": "body"
+    },
+    {
+      "word": "Gesicht",
+      "translation": "face",
+      "category": "body"
+    },
+    {
+      "word": "Hals",
+      "translation": "neck",
+      "category": "body"
+    },
+    {
+      "word": "Rücken",
+      "translation": "back",
+      "category": "body"
+    },
+    {
+      "word": "Haut",
+      "translation": "skin",
+      "category": "body"
+    },
+    {
+      "word": "Blut",
+      "translation": "blood",
+      "category": "body"
+    },
+    {
+      "word": "Knochen",
+      "translation": "bone",
+      "category": "body"
+    },
+    {
+      "word": "Gehirn",
+      "translation": "brain",
+      "category": "body"
+    },
+    {
+      "word": "Magen",
+      "translation": "stomach",
+      "category": "body"
+    },
+    {
+      "word": "Knie",
+      "translation": "knee",
+      "category": "body"
+    },
+    {
+      "word": "Schulter",
+      "translation": "shoulder",
+      "category": "body"
+    },
+    {
+      "word": "Stimme",
+      "translation": "voice",
+      "category": "body"
+    },
+    {
+      "word": "Hund",
+      "translation": "dog",
+      "category": "animals"
+    },
+    {
+      "word": "Katze",
+      "translation": "cat",
+      "category": "animals"
+    },
+    {
+      "word": "Vogel",
+      "translation": "bird",
+      "category": "animals"
+    },
+    {
+      "word": "Fisch",
+      "translation": "fish",
+      "category": "animals"
+    },
+    {
+      "word": "Pferd",
+      "translation": "horse",
+      "category": "animals"
+    },
+    {
+      "word": "Kuh",
+      "translation": "cow",
+      "category": "animals"
+    },
+    {
+      "word": "Löwe",
+      "translation": "lion",
+      "category": "animals"
+    },
+    {
+      "word": "Bär",
+      "translation": "bear",
+      "category": "animals"
+    },
+    {
+      "word": "Schwein",
+      "translation": "pig",
+      "category": "animals"
+    },
+    {
+      "word": "Schaf",
+      "translation": "sheep",
+      "category": "animals"
+    },
+    {
+      "word": "Huhn",
+      "translation": "chicken",
+      "category": "animals"
+    },
+    {
+      "word": "Ente",
+      "translation": "duck",
+      "category": "animals"
+    },
+    {
+      "word": "Kaninchen",
+      "translation": "rabbit",
+      "category": "animals"
+    },
+    {
+      "word": "Maus",
+      "translation": "mouse",
+      "category": "animals"
+    },
+    {
+      "word": "Schlange",
+      "translation": "snake",
+      "category": "animals"
+    },
+    {
+      "word": "Elefant",
+      "translation": "elephant",
+      "category": "animals"
+    },
+    {
+      "word": "Affe",
+      "translation": "monkey",
+      "category": "animals"
+    },
+    {
+      "word": "Wolf",
+      "translation": "wolf",
+      "category": "animals"
+    },
+    {
+      "word": "Fuchs",
+      "translation": "fox",
+      "category": "animals"
+    },
+    {
+      "word": "Tiger",
+      "translation": "tiger",
+      "category": "animals"
+    },
+    {
+      "word": "Biene",
+      "translation": "bee",
+      "category": "animals"
+    },
+    {
+      "word": "Spinne",
+      "translation": "spider",
+      "category": "animals"
+    },
+    {
+      "word": "Frosch",
+      "translation": "frog",
+      "category": "animals"
+    },
+    {
+      "word": "Insekt",
+      "translation": "insect",
+      "category": "animals"
+    },
+    {
+      "word": "Ziege",
+      "translation": "goat",
+      "category": "animals"
+    },
+    {
+      "word": "Hirsch",
+      "translation": "deer",
+      "category": "animals"
+    },
+    {
+      "word": "Esel",
+      "translation": "donkey",
+      "category": "animals"
+    },
+    {
+      "word": "Wasser",
+      "translation": "water",
+      "category": "food"
+    },
+    {
+      "word": "Brot",
+      "translation": "bread",
+      "category": "food"
+    },
+    {
+      "word": "Milch",
+      "translation": "milk",
+      "category": "food"
+    },
+    {
+      "word": "Kaffee",
+      "translation": "coffee",
+      "category": "food"
+    },
+    {
+      "word": "Tee",
+      "translation": "tea",
+      "category": "food"
+    },
+    {
+      "word": "Fleisch",
+      "translation": "meat",
+      "category": "food"
+    },
+    {
+      "word": "Käse",
+      "translation": "cheese",
+      "category": "food"
+    },
+    {
+      "word": "Ei",
+      "translation": "egg",
+      "category": "food"
+    },
+    {
+      "word": "Wein",
+      "translation": "wine",
+      "category": "food"
+    },
+    {
+      "word": "Bier",
+      "translation": "beer",
+      "category": "food"
+    },
+    {
+      "word": "Obst",
+      "translation": "fruit",
+      "category": "food"
+    },
+    {
+      "word": "Apfel",
+      "translation": "apple",
+      "category": "food"
+    },
+    {
+      "word": "Banane",
+      "translation": "banana",
+      "category": "food"
+    },
+    {
+      "word": "Traube",
+      "translation": "grape",
+      "category": "food"
+    },
+    {
+      "word": "Zitrone",
+      "translation": "lemon",
+      "category": "food"
+    },
+    {
+      "word": "Zucker",
+      "translation": "sugar",
+      "category": "food"
+    },
+    {
+      "word": "Salz",
+      "translation": "salt",
+      "category": "food"
+    },
+    {
+      "word": "Pfeffer",
+      "translation": "pepper",
+      "category": "food"
+    },
+    {
+      "word": "Reis",
+      "translation": "rice",
+      "category": "food"
+    },
+    {
+      "word": "Suppe",
+      "translation": "soup",
+      "category": "food"
+    },
+    {
+      "word": "Gemüse",
+      "translation": "vegetable",
+      "category": "food"
+    },
+    {
+      "word": "Kartoffel",
+      "translation": "potato",
+      "category": "food"
+    },
+    {
+      "word": "Tomate",
+      "translation": "tomato",
+      "category": "food"
+    },
+    {
+      "word": "Zwiebel",
+      "translation": "onion",
+      "category": "food"
+    },
+    {
+      "word": "Butter",
+      "translation": "butter",
+      "category": "food"
+    },
+    {
+      "word": "Schokolade",
+      "translation": "chocolate",
+      "category": "food"
+    },
+    {
+      "word": "Honig",
+      "translation": "honey",
+      "category": "food"
+    },
+    {
+      "word": "Saft",
+      "translation": "juice",
+      "category": "food"
+    },
+    {
+      "word": "Salat",
+      "translation": "salad",
+      "category": "food"
+    },
+    {
+      "word": "Kuchen",
+      "translation": "cake",
+      "category": "food"
+    },
+    {
+      "word": "Eis",
+      "translation": "ice cream",
+      "category": "food"
+    },
+    {
+      "word": "Frühstück",
+      "translation": "breakfast",
+      "category": "food"
+    },
+    {
+      "word": "Mittagessen",
+      "translation": "lunch",
+      "category": "food"
+    },
+    {
+      "word": "Abendessen",
+      "translation": "dinner",
+      "category": "food"
+    },
+    {
+      "word": "Mahlzeit",
+      "translation": "meal",
+      "category": "food"
+    },
+    {
+      "word": "Haus",
+      "translation": "house",
+      "category": "house"
+    },
+    {
+      "word": "Tür",
+      "translation": "door",
+      "category": "house"
+    },
+    {
+      "word": "Fenster",
+      "translation": "window",
+      "category": "house"
+    },
+    {
+      "word": "Tisch",
+      "translation": "table",
+      "category": "house"
+    },
+    {
+      "word": "Stuhl",
+      "translation": "chair",
+      "category": "house"
+    },
+    {
+      "word": "Bett",
+      "translation": "bed",
+      "category": "house"
+    },
+    {
+      "word": "Schlüssel",
+      "translation": "key",
+      "category": "house"
+    },
+    {
+      "word": "Zimmer",
+      "translation": "room",
+      "category": "house"
+    },
+    {
+      "word": "Küche",
+      "translation": "kitchen",
+      "category": "house"
+    },
+    {
+      "word": "Badezimmer",
+      "translation": "bathroom",
+      "category": "house"
+    },
+    {
+      "word": "Garten",
+      "translation": "garden",
+      "category": "house"
+    },
+    {
+      "word": "Wand",
+      "translation": "wall",
+      "category": "house"
+    },
+    {
+      "word": "Boden",
+      "translation": "floor",
+      "category": "house"
+    },
+    {
+      "word": "Dach",
+      "translation": "roof",
+      "category": "house"
+    },
+    {
+      "word": "Lampe",
+      "translation": "lamp",
+      "category": "house"
+    },
+    {
+      "word": "Spiegel",
+      "translation": "mirror",
+      "category": "house"
+    },
+    {
+      "word": "Uhr",
+      "translation": "clock",
+      "category": "house"
+    },
+    {
+      "word": "Telefon",
+      "translation": "phone",
+      "category": "house"
+    },
+    {
+      "word": "Computer",
+      "translation": "computer",
+      "category": "house"
+    },
+    {
+      "word": "Fernseher",
+      "translation": "television",
+      "category": "house"
+    },
+    {
+      "word": "Flasche",
+      "translation": "bottle",
+      "category": "house"
+    },
+    {
+      "word": "Glas",
+      "translation": "glass",
+      "category": "house"
+    },
+    {
+      "word": "Tasse",
+      "translation": "cup",
+      "category": "house"
+    },
+    {
+      "word": "Teller",
+      "translation": "plate",
+      "category": "house"
+    },
+    {
+      "word": "Löffel",
+      "translation": "spoon",
+      "category": "house"
+    },
+    {
+      "word": "Gabel",
+      "translation": "fork",
+      "category": "house"
+    },
+    {
+      "word": "Messer",
+      "translation": "knife",
+      "category": "house"
+    },
+    {
+      "word": "Seife",
+      "translation": "soap",
+      "category": "house"
+    },
+    {
+      "word": "Handtuch",
+      "translation": "towel",
+      "category": "house"
+    },
+    {
+      "word": "Schachtel",
+      "translation": "box",
+      "category": "house"
+    },
+    {
+      "word": "Tasche",
+      "translation": "bag",
+      "category": "house"
+    },
+    {
+      "word": "Papier",
+      "translation": "paper",
+      "category": "house"
+    },
+    {
+      "word": "Stift",
+      "translation": "pen",
+      "category": "house"
+    },
+    {
+      "word": "Bleistift",
+      "translation": "pencil",
+      "category": "house"
+    },
+    {
+      "word": "Foto",
+      "translation": "photo",
+      "category": "house"
+    },
+    {
+      "word": "Hemd",
+      "translation": "shirt",
+      "category": "clothing"
+    },
+    {
+      "word": "Hose",
+      "translation": "pants",
+      "category": "clothing"
+    },
+    {
+      "word": "Schuh",
+      "translation": "shoe",
+      "category": "clothing"
+    },
+    {
+      "word": "Hut",
+      "translation": "hat",
+      "category": "clothing"
+    },
+    {
+      "word": "Kleid",
+      "translation": "dress",
+      "category": "clothing"
+    },
+    {
+      "word": "Mantel",
+      "translation": "coat",
+      "category": "clothing"
+    },
+    {
+      "word": "Socke",
+      "translation": "sock",
+      "category": "clothing"
+    },
+    {
+      "word": "Handschuh",
+      "translation": "glove",
+      "category": "clothing"
+    },
+    {
+      "word": "Rock",
+      "translation": "skirt",
+      "category": "clothing"
+    },
+    {
+      "word": "Jacke",
+      "translation": "jacket",
+      "category": "clothing"
+    },
+    {
+      "word": "Ring",
+      "translation": "ring",
+      "category": "clothing"
+    },
+    {
+      "word": "Brille",
+      "translation": "glasses",
+      "category": "clothing"
+    },
+    {
+      "word": "Kleidung",
+      "translation": "clothes",
+      "category": "clothing"
+    },
+    {
+      "word": "Stadt",
+      "translation": "city",
+      "category": "places"
+    },
+    {
+      "word": "Straße",
+      "translation": "street",
+      "category": "places"
+    },
+    {
+      "word": "Schule",
+      "translation": "school",
+      "category": "places"
+    },
+    {
+      "word": "Arbeit",
+      "translation": "work",
+      "category": "places"
+    },
+    {
+      "word": "Geschäft",
+      "translation": "shop",
+      "category": "places"
+    },
+    {
+      "word": "Krankenhaus",
+      "translation": "hospital",
+      "category": "places"
+    },
+    {
+      "word": "Park",
+      "translation": "park",
+      "category": "places"
+    },
+    {
+      "word": "Restaurant",
+      "translation": "restaurant",
+      "category": "places"
+    },
+    {
+      "word": "Kirche",
+      "translation": "church",
+      "category": "places"
+    },
+    {
+      "word": "Markt",
+      "translation": "market",
+      "category": "places"
+    },
+    {
+      "word": "Bank",
+      "translation": "bank",
+      "category": "places"
+    },
+    {
+      "word": "Flughafen",
+      "translation": "airport",
+      "category": "places"
+    },
+    {
+      "word": "Bahnhof",
+      "translation": "station",
+      "category": "places"
+    },
+    {
+      "word": "Hotel",
+      "translation": "hotel",
+      "category": "places"
+    },
+    {
+      "word": "Bibliothek",
+      "translation": "library",
+      "category": "places"
+    },
+    {
+      "word": "Büro",
+      "translation": "office",
+      "category": "places"
+    },
+    {
+      "word": "Bauernhof",
+      "translation": "farm",
+      "category": "places"
+    },
+    {
+      "word": "Dorf",
+      "translation": "village",
+      "category": "places"
+    },
+    {
+      "word": "Brücke",
+      "translation": "bridge",
+      "category": "places"
+    },
+    {
+      "word": "Museum",
+      "translation": "museum",
+      "category": "places"
+    },
+    {
+      "word": "Strand",
+      "translation": "beach",
+      "category": "places"
+    },
+    {
+      "word": "Land",
+      "translation": "country",
+      "category": "places"
+    },
+    {
+      "word": "Welt",
+      "translation": "world",
+      "category": "places"
+    },
+    {
+      "word": "Sonne",
+      "translation": "sun",
+      "category": "nature"
+    },
+    {
+      "word": "Mond",
+      "translation": "moon",
+      "category": "nature"
+    },
+    {
+      "word": "Stern",
+      "translation": "star",
+      "category": "nature"
+    },
+    {
+      "word": "Himmel",
+      "translation": "sky",
+      "category": "nature"
+    },
+    {
+      "word": "Meer",
+      "translation": "sea",
+      "category": "nature"
+    },
+    {
+      "word": "Fluss",
+      "translation": "river",
+      "category": "nature"
+    },
+    {
+      "word": "Berg",
+      "translation": "mountain",
+      "category": "nature"
+    },
+    {
+      "word": "Baum",
+      "translation": "tree",
+      "category": "nature"
+    },
+    {
+      "word": "Blume",
+      "translation": "flower",
+      "category": "nature"
+    },
+    {
+      "word": "Regen",
+      "translation": "rain",
+      "category": "nature"
+    },
+    {
+      "word": "Schnee",
+      "translation": "snow",
+      "category": "nature"
+    },
+    {
+      "word": "Feuer",
+      "translation": "fire",
+      "category": "nature"
+    },
+    {
+      "word": "Wind",
+      "translation": "wind",
+      "category": "nature"
+    },
+    {
+      "word": "Wolke",
+      "translation": "cloud",
+      "category": "nature"
+    },
+    {
+      "word": "Erde",
+      "translation": "earth",
+      "category": "nature"
+    },
+    {
+      "word": "Stein",
+      "translation": "stone",
+      "category": "nature"
+    },
+    {
+      "word": "Wald",
+      "translation": "forest",
+      "category": "nature"
+    },
+    {
+      "word": "See",
+      "translation": "lake",
+      "category": "nature"
+    },
+    {
+      "word": "Insel",
+      "translation": "island",
+      "category": "nature"
+    },
+    {
+      "word": "Gras",
+      "translation": "grass",
+      "category": "nature"
+    },
+    {
+      "word": "Blatt",
+      "translation": "leaf",
+      "category": "nature"
+    },
+    {
+      "word": "Sand",
+      "translation": "sand",
+      "category": "nature"
+    },
+    {
+      "word": "Feld",
+      "translation": "field",
+      "category": "nature"
+    },
+    {
+      "word": "Luft",
+      "translation": "air",
+      "category": "nature"
+    },
+    {
+      "word": "Licht",
+      "translation": "light",
+      "category": "nature"
+    },
+    {
+      "word": "Tag",
+      "translation": "day",
+      "category": "time"
+    },
+    {
+      "word": "Nacht",
+      "translation": "night",
+      "category": "time"
+    },
+    {
+      "word": "Morgen",
+      "translation": "morning",
+      "category": "time"
+    },
+    {
+      "word": "Abend",
+      "translation": "evening",
+      "category": "time"
+    },
+    {
+      "word": "heute",
+      "translation": "today",
+      "category": "time"
+    },
+    {
+      "word": "gestern",
+      "translation": "yesterday",
+      "category": "time"
+    },
+    {
+      "word": "Woche",
+      "translation": "week",
+      "category": "time"
+    },
+    {
+      "word": "Monat",
+      "translation": "month",
+      "category": "time"
+    },
+    {
+      "word": "Jahr",
+      "translation": "year",
+      "category": "time"
+    },
+    {
+      "word": "Stunde",
+      "translation": "hour",
+      "category": "time"
+    },
+    {
+      "word": "Minute",
+      "translation": "minute",
+      "category": "time"
+    },
+    {
+      "word": "Sekunde",
+      "translation": "second",
+      "category": "time"
+    },
+    {
+      "word": "Zeit",
+      "translation": "time",
+      "category": "time"
+    },
+    {
+      "word": "Moment",
+      "translation": "moment",
+      "category": "time"
+    },
+    {
+      "word": "Montag",
+      "translation": "Monday",
+      "category": "time"
+    },
+    {
+      "word": "Dienstag",
+      "translation": "Tuesday",
+      "category": "time"
+    },
+    {
+      "word": "Mittwoch",
+      "translation": "Wednesday",
+      "category": "time"
+    },
+    {
+      "word": "Donnerstag",
+      "translation": "Thursday",
+      "category": "time"
+    },
+    {
+      "word": "Freitag",
+      "translation": "Friday",
+      "category": "time"
+    },
+    {
+      "word": "Samstag",
+      "translation": "Saturday",
+      "category": "time"
+    },
+    {
+      "word": "Sonntag",
+      "translation": "Sunday",
+      "category": "time"
+    },
+    {
+      "word": "Januar",
+      "translation": "January",
+      "category": "time"
+    },
+    {
+      "word": "Februar",
+      "translation": "February",
+      "category": "time"
+    },
+    {
+      "word": "März",
+      "translation": "March",
+      "category": "time"
+    },
+    {
+      "word": "April",
+      "translation": "April",
+      "category": "time"
+    },
+    {
+      "word": "Mai",
+      "translation": "May",
+      "category": "time"
+    },
+    {
+      "word": "Juni",
+      "translation": "June",
+      "category": "time"
+    },
+    {
+      "word": "Juli",
+      "translation": "July",
+      "category": "time"
+    },
+    {
+      "word": "August",
+      "translation": "August",
+      "category": "time"
+    },
+    {
+      "word": "September",
+      "translation": "September",
+      "category": "time"
+    },
+    {
+      "word": "Oktober",
+      "translation": "October",
+      "category": "time"
+    },
+    {
+      "word": "November",
+      "translation": "November",
+      "category": "time"
+    },
+    {
+      "word": "Dezember",
+      "translation": "December",
+      "category": "time"
+    },
+    {
+      "word": "essen",
+      "translation": "to eat",
+      "category": "verbs"
+    },
+    {
+      "word": "trinken",
+      "translation": "to drink",
+      "category": "verbs"
+    },
+    {
+      "word": "laufen",
+      "translation": "to run",
+      "category": "verbs"
+    },
+    {
+      "word": "schlafen",
+      "translation": "to sleep",
+      "category": "verbs"
+    },
+    {
+      "word": "gehen",
+      "translation": "to go",
+      "category": "verbs"
+    },
+    {
+      "word": "kommen",
+      "translation": "to come",
+      "category": "verbs"
+    },
+    {
+      "word": "sehen",
+      "translation": "to see",
+      "category": "verbs"
+    },
+    {
+      "word": "schauen",
+      "translation": "to look",
+      "category": "verbs"
+    },
+    {
+      "word": "hören",
+      "translation": "to listen",
+      "category": "verbs"
+    },
+    {
+      "word": "sprechen",
+      "translation": "to speak",
+      "category": "verbs"
+    },
+    {
+      "word": "sagen",
+      "translation": "to say",
+      "category": "verbs"
+    },
+    {
+      "word": "lesen",
+      "translation": "to read",
+      "category": "verbs"
+    },
+    {
+      "word": "schreiben",
+      "translation": "to write",
+      "category": "verbs"
+    },
+    {
+      "word": "wollen",
+      "translation": "to want",
+      "category": "verbs"
+    },
+    {
+      "word": "haben",
+      "translation": "to have",
+      "category": "verbs"
+    },
+    {
+      "word": "lieben",
+      "translation": "to love",
+      "category": "verbs"
+    },
+    {
+      "word": "arbeiten",
+      "translation": "to work",
+      "category": "verbs"
+    },
+    {
+      "word": "kaufen",
+      "translation": "to buy",
+      "category": "verbs"
+    },
+    {
+      "word": "verkaufen",
+      "translation": "to sell",
+      "category": "verbs"
+    },
+    {
+      "word": "bezahlen",
+      "translation": "to pay",
+      "category": "verbs"
+    },
+    {
+      "word": "geben",
+      "translation": "to give",
+      "category": "verbs"
+    },
+    {
+      "word": "nehmen",
+      "translation": "to take",
+      "category": "verbs"
+    },
+    {
+      "word": "bringen",
+      "translation": "to bring",
+      "category": "verbs"
+    },
+    {
+      "word": "senden",
+      "translation": "to send",
+      "category": "verbs"
+    },
+    {
+      "word": "machen",
+      "translation": "to make",
+      "category": "verbs"
+    },
+    {
+      "word": "wissen",
+      "translation": "to know",
+      "category": "verbs"
+    },
+    {
+      "word": "denken",
+      "translation": "to think",
+      "category": "verbs"
+    },
+    {
+      "word": "glauben",
+      "translation": "to believe",
+      "category": "verbs"
+    },
+    {
+      "word": "finden",
+      "translation": "to find",
+      "category": "verbs"
+    },
+    {
+      "word": "öffnen",
+      "translation": "to open",
+      "category": "verbs"
+    },
+    {
+      "word": "schließen",
+      "translation": "to close",
+      "category": "verbs"
+    },
+    {
+      "word": "spielen",
+      "translation": "to play",
+      "category": "verbs"
+    },
+    {
+      "word": "singen",
+      "translation": "to sing",
+      "category": "verbs"
+    },
+    {
+      "word": "tanzen",
+      "translation": "to dance",
+      "category": "verbs"
+    },
+    {
+      "word": "lernen",
+      "translation": "to learn",
+      "category": "verbs"
+    },
+    {
+      "word": "lehren",
+      "translation": "to teach",
+      "category": "verbs"
+    },
+    {
+      "word": "verstehen",
+      "translation": "to understand",
+      "category": "verbs"
+    },
+    {
+      "word": "fragen",
+      "translation": "to ask",
+      "category": "verbs"
+    },
+    {
+      "word": "antworten",
+      "translation": "to answer",
+      "category": "verbs"
+    },
+    {
+      "word": "helfen",
+      "translation": "to help",
+      "category": "verbs"
+    },
+    {
+      "word": "brauchen",
+      "translation": "to need",
+      "category": "verbs"
+    },
+    {
+      "word": "leben",
+      "translation": "to live",
+      "category": "verbs"
+    },
+    {
+      "word": "sterben",
+      "translation": "to die",
+      "category": "verbs"
+    },
+    {
+      "word": "warten",
+      "translation": "to wait",
+      "category": "verbs"
+    },
+    {
+      "word": "beginnen",
+      "translation": "to begin",
+      "category": "verbs"
+    },
+    {
+      "word": "beenden",
+      "translation": "to finish",
+      "category": "verbs"
+    },
+    {
+      "word": "legen",
+      "translation": "to put",
+      "category": "verbs"
+    },
+    {
+      "word": "rufen",
+      "translation": "to call",
+      "category": "verbs"
+    },
+    {
+      "word": "fühlen",
+      "translation": "to feel",
+      "category": "verbs"
+    },
+    {
+      "word": "verlassen",
+      "translation": "to leave",
+      "category": "verbs"
+    },
+    {
+      "word": "verlieren",
+      "translation": "to lose",
+      "category": "verbs"
+    },
+    {
+      "word": "gewinnen",
+      "translation": "to win",
+      "category": "verbs"
+    },
+    {
+      "word": "fahren",
+      "translation": "to drive",
+      "category": "verbs"
+    },
+    {
+      "word": "fliegen",
+      "translation": "to fly",
+      "category": "verbs"
+    },
+    {
+      "word": "waschen",
+      "translation": "to wash",
+      "category": "verbs"
+    },
+    {
+      "word": "kochen",
+      "translation": "to cook",
+      "category": "verbs"
+    },
+    {
+      "word": "schneiden",
+      "translation": "to cut",
+      "category": "verbs"
+    },
+    {
+      "word": "tragen",
+      "translation": "to wear",
+      "category": "verbs"
+    },
+    {
+      "word": "bleiben",
+      "translation": "to stay",
+      "category": "verbs"
+    },
+    {
+      "word": "ändern",
+      "translation": "to change",
+      "category": "verbs"
+    },
+    {
+      "word": "erinnern",
+      "translation": "to remember",
+      "category": "verbs"
+    },
+    {
+      "word": "vergessen",
+      "translation": "to forget",
+      "category": "verbs"
+    },
+    {
+      "word": "brechen",
+      "translation": "to break",
+      "category": "verbs"
+    },
+    {
+      "word": "groß",
+      "translation": "big",
+      "category": "adjectives"
+    },
+    {
+      "word": "klein",
+      "translation": "small",
+      "category": "adjectives"
+    },
+    {
+      "word": "gut",
+      "translation": "good",
+      "category": "adjectives"
+    },
+    {
+      "word": "schlecht",
+      "translation": "bad",
+      "category": "adjectives"
+    },
+    {
+      "word": "heiß",
+      "translation": "hot",
+      "category": "adjectives"
+    },
+    {
+      "word": "kalt",
+      "translation": "cold",
+      "category": "adjectives"
+    },
+    {
+      "word": "neu",
+      "translation": "new",
+      "category": "adjectives"
+    },
+    {
+      "word": "alt",
+      "translation": "old",
+      "category": "adjectives"
+    },
+    {
+      "word": "glücklich",
+      "translation": "happy",
+      "category": "adjectives"
+    },
+    {
+      "word": "traurig",
+      "translation": "sad",
+      "category": "adjectives"
+    },
+    {
+      "word": "schnell",
+      "translation": "fast",
+      "category": "adjectives"
+    },
+    {
+      "word": "langsam",
+      "translation": "slow",
+      "category": "adjectives"
+    },
+    {
+      "word": "schön",
+      "translation": "beautiful",
+      "category": "adjectives"
+    },
+    {
+      "word": "hässlich",
+      "translation": "ugly",
+      "category": "adjectives"
+    },
+    {
+      "word": "einfach",
+      "translation": "easy",
+      "category": "adjectives"
+    },
+    {
+      "word": "schwierig",
+      "translation": "difficult",
+      "category": "adjectives"
+    },
+    {
+      "word": "lang",
+      "translation": "long",
+      "category": "adjectives"
+    },
+    {
+      "word": "kurz",
+      "translation": "short",
+      "category": "adjectives"
+    },
+    {
+      "word": "hoch",
+      "translation": "tall",
+      "category": "adjectives"
+    },
+    {
+      "word": "niedrig",
+      "translation": "low",
+      "category": "adjectives"
+    },
+    {
+      "word": "stark",
+      "translation": "strong",
+      "category": "adjectives"
+    },
+    {
+      "word": "schwach",
+      "translation": "weak",
+      "category": "adjectives"
+    },
+    {
+      "word": "reich",
+      "translation": "rich",
+      "category": "adjectives"
+    },
+    {
+      "word": "arm",
+      "translation": "poor",
+      "category": "adjectives"
+    },
+    {
+      "word": "jung",
+      "translation": "young",
+      "category": "adjectives"
+    },
+    {
+      "word": "voll",
+      "translation": "full",
+      "category": "adjectives"
+    },
+    {
+      "word": "leer",
+      "translation": "empty",
+      "category": "adjectives"
+    },
+    {
+      "word": "sauber",
+      "translation": "clean",
+      "category": "adjectives"
+    },
+    {
+      "word": "schmutzig",
+      "translation": "dirty",
+      "category": "adjectives"
+    },
+    {
+      "word": "dunkel",
+      "translation": "dark",
+      "category": "adjectives"
+    },
+    {
+      "word": "hell",
+      "translation": "bright",
+      "category": "adjectives"
+    },
+    {
+      "word": "schwer",
+      "translation": "heavy",
+      "category": "adjectives"
+    },
+    {
+      "word": "leicht",
+      "translation": "light (not heavy)",
+      "category": "adjectives"
+    },
+    {
+      "word": "teuer",
+      "translation": "expensive",
+      "category": "adjectives"
+    },
+    {
+      "word": "billig",
+      "translation": "cheap",
+      "category": "adjectives"
+    },
+    {
+      "word": "richtig",
+      "translation": "correct",
+      "category": "adjectives"
+    },
+    {
+      "word": "falsch",
+      "translation": "wrong",
+      "category": "adjectives"
+    },
+    {
+      "word": "wahr",
+      "translation": "true",
+      "category": "adjectives"
+    },
+    {
+      "word": "wichtig",
+      "translation": "important",
+      "category": "adjectives"
+    },
+    {
+      "word": "anders",
+      "translation": "different",
+      "category": "adjectives"
+    },
+    {
+      "word": "gleich",
+      "translation": "same",
+      "category": "adjectives"
+    },
+    {
+      "word": "bereit",
+      "translation": "ready",
+      "category": "adjectives"
+    },
+    {
+      "word": "müde",
+      "translation": "tired",
+      "category": "adjectives"
+    },
+    {
+      "word": "hungrig",
+      "translation": "hungry",
+      "category": "adjectives"
+    },
+    {
+      "word": "wütend",
+      "translation": "angry",
+      "category": "adjectives"
+    },
+    {
+      "word": "ängstlich",
+      "translation": "afraid",
+      "category": "adjectives"
+    },
+    {
+      "word": "krank",
+      "translation": "sick",
+      "category": "adjectives"
+    },
+    {
+      "word": "gesund",
+      "translation": "healthy",
+      "category": "adjectives"
+    },
+    {
+      "word": "frei",
+      "translation": "free",
+      "category": "adjectives"
+    },
+    {
+      "word": "beschäftigt",
+      "translation": "busy",
+      "category": "adjectives"
+    },
+    {
+      "word": "weich",
+      "translation": "soft",
+      "category": "adjectives"
+    },
+    {
+      "word": "hart",
+      "translation": "hard",
+      "category": "adjectives"
+    },
+    {
+      "word": "tief",
+      "translation": "deep",
+      "category": "adjectives"
+    },
+    {
+      "word": "breit",
+      "translation": "wide",
+      "category": "adjectives"
+    },
+    {
+      "word": "eng",
+      "translation": "narrow",
+      "category": "adjectives"
+    },
+    {
+      "word": "ruhig",
+      "translation": "quiet",
+      "category": "adjectives"
+    },
+    {
+      "word": "laut",
+      "translation": "loud",
+      "category": "adjectives"
+    },
+    {
+      "word": "trocken",
+      "translation": "dry",
+      "category": "adjectives"
+    },
+    {
+      "word": "nass",
+      "translation": "wet",
+      "category": "adjectives"
+    },
+    {
+      "word": "süß",
+      "translation": "sweet",
+      "category": "adjectives"
+    },
+    {
+      "word": "bitter",
+      "translation": "bitter",
+      "category": "adjectives"
+    },
+    {
+      "word": "dick",
+      "translation": "fat",
+      "category": "adjectives"
+    },
+    {
+      "word": "dünn",
+      "translation": "thin",
+      "category": "adjectives"
+    },
+    {
+      "word": "Liebe",
+      "translation": "love",
+      "category": "abstract"
+    },
+    {
+      "word": "Buch",
+      "translation": "book",
+      "category": "abstract"
+    },
+    {
+      "word": "Geld",
+      "translation": "money",
+      "category": "abstract"
+    },
+    {
+      "word": "Name",
+      "translation": "name",
+      "category": "abstract"
+    },
+    {
+      "word": "Wort",
+      "translation": "word",
+      "category": "abstract"
+    },
+    {
+      "word": "Leben",
+      "translation": "life",
+      "category": "abstract"
+    },
+    {
+      "word": "Musik",
+      "translation": "music",
+      "category": "abstract"
+    },
+    {
+      "word": "Sprache",
+      "translation": "language",
+      "category": "abstract"
+    },
+    {
+      "word": "Frage",
+      "translation": "question",
+      "category": "abstract"
+    },
+    {
+      "word": "Antwort",
+      "translation": "answer",
+      "category": "abstract"
+    },
+    {
+      "word": "Problem",
+      "translation": "problem",
+      "category": "abstract"
+    },
+    {
+      "word": "Idee",
+      "translation": "idea",
+      "category": "abstract"
+    },
+    {
+      "word": "Geschichte",
+      "translation": "story",
+      "category": "abstract"
+    },
+    {
+      "word": "Zahl",
+      "translation": "number",
+      "category": "abstract"
+    },
+    {
+      "word": "Brief",
+      "translation": "letter",
+      "category": "abstract"
+    },
+    {
+      "word": "Krieg",
+      "translation": "war",
+      "category": "abstract"
+    },
+    {
+      "word": "Frieden",
+      "translation": "peace",
+      "category": "abstract"
+    },
+    {
+      "word": "Wahrheit",
+      "translation": "truth",
+      "category": "abstract"
+    },
+    {
+      "word": "Macht",
+      "translation": "power",
+      "category": "abstract"
+    },
+    {
+      "word": "Gott",
+      "translation": "god",
+      "category": "abstract"
+    },
+    {
+      "word": "Tod",
+      "translation": "death",
+      "category": "abstract"
+    },
+    {
+      "word": "Traum",
+      "translation": "dream",
+      "category": "abstract"
+    },
+    {
+      "word": "Hoffnung",
+      "translation": "hope",
+      "category": "abstract"
+    },
+    {
+      "word": "Angst",
+      "translation": "fear",
+      "category": "abstract"
+    },
+    {
+      "word": "Freude",
+      "translation": "joy",
+      "category": "abstract"
+    },
+    {
+      "word": "Farbe",
+      "translation": "color",
+      "category": "abstract"
+    },
+    {
+      "word": "Klang",
+      "translation": "sound",
+      "category": "abstract"
+    },
+    {
+      "word": "Spiel",
+      "translation": "game",
+      "category": "abstract"
+    },
+    {
+      "word": "Party",
+      "translation": "party",
+      "category": "abstract"
+    },
+    {
+      "word": "Geschenk",
+      "translation": "gift",
+      "category": "abstract"
+    },
+    {
+      "word": "Preis",
+      "translation": "price",
+      "category": "abstract"
+    },
+    {
+      "word": "Kunst",
+      "translation": "art",
+      "category": "abstract"
+    },
+    {
+      "word": "Wissenschaft",
+      "translation": "science",
+      "category": "abstract"
+    },
+    {
+      "word": "Nachrichten",
+      "translation": "news",
+      "category": "abstract"
+    },
+    {
+      "word": "Job",
+      "translation": "job",
+      "category": "abstract"
+    },
+    {
+      "word": "Gesundheit",
+      "translation": "health",
+      "category": "abstract"
+    },
+    {
+      "word": "Natur",
+      "translation": "nature",
+      "category": "abstract"
+    },
+    {
+      "word": "Auto",
+      "translation": "car",
+      "category": "transport"
+    },
+    {
+      "word": "Bus",
+      "translation": "bus",
+      "category": "transport"
+    },
+    {
+      "word": "Zug",
+      "translation": "train",
+      "category": "transport"
+    },
+    {
+      "word": "Flugzeug",
+      "translation": "plane",
+      "category": "transport"
+    },
+    {
+      "word": "Fahrrad",
+      "translation": "bicycle",
+      "category": "transport"
+    },
+    {
+      "word": "Boot",
+      "translation": "boat",
+      "category": "transport"
+    },
+    {
+      "word": "Schiff",
+      "translation": "ship",
+      "category": "transport"
+    },
+    {
+      "word": "Lastwagen",
+      "translation": "truck",
+      "category": "transport"
+    },
+    {
+      "word": "Motorrad",
+      "translation": "motorcycle",
+      "category": "transport"
+    },
+    {
+      "word": "Fahrkarte",
+      "translation": "ticket",
+      "category": "transport"
+    },
+    {
+      "word": "Arzt",
+      "translation": "doctor",
+      "category": "professions"
+    },
+    {
+      "word": "Lehrer",
+      "translation": "teacher",
+      "category": "professions"
+    },
+    {
+      "word": "Student",
+      "translation": "student",
+      "category": "professions"
+    },
+    {
+      "word": "Krankenpfleger",
+      "translation": "nurse",
+      "category": "professions"
+    },
+    {
+      "word": "Polizei",
+      "translation": "police",
+      "category": "professions"
+    },
+    {
+      "word": "Bauer",
+      "translation": "farmer",
+      "category": "professions"
+    },
+    {
+      "word": "Koch",
+      "translation": "cook",
+      "category": "professions"
+    },
+    {
+      "word": "Fahrer",
+      "translation": "driver",
+      "category": "professions"
+    },
+    {
+      "word": "Schriftsteller",
+      "translation": "writer",
+      "category": "professions"
+    },
+    {
+      "word": "Sänger",
+      "translation": "singer",
+      "category": "professions"
+    },
+    {
+      "word": "Künstler",
+      "translation": "artist",
+      "category": "professions"
+    },
+    {
+      "word": "König",
+      "translation": "king",
+      "category": "professions"
+    },
+    {
+      "word": "Königin",
+      "translation": "queen",
+      "category": "professions"
+    },
+    {
+      "word": "Soldat",
+      "translation": "soldier",
+      "category": "professions"
+    },
+    {
+      "word": "Anwalt",
+      "translation": "lawyer",
+      "category": "professions"
+    },
+    {
+      "word": "ich",
+      "translation": "I",
+      "category": "grammar"
+    },
+    {
+      "word": "du",
+      "translation": "you",
+      "category": "grammar"
+    },
+    {
+      "word": "er",
+      "translation": "he",
+      "category": "grammar"
+    },
+    {
+      "word": "sie",
+      "translation": "she",
+      "category": "grammar"
+    },
+    {
+      "word": "wir",
+      "translation": "we",
+      "category": "grammar"
+    },
+    {
+      "word": "wer",
+      "translation": "who",
+      "category": "grammar"
+    },
+    {
+      "word": "was",
+      "translation": "what",
+      "category": "grammar"
+    },
+    {
+      "word": "wo",
+      "translation": "where",
+      "category": "grammar"
+    },
+    {
+      "word": "wann",
+      "translation": "when",
+      "category": "grammar"
+    },
+    {
+      "word": "warum",
+      "translation": "why",
+      "category": "grammar"
+    },
+    {
+      "word": "wie",
+      "translation": "how",
+      "category": "grammar"
+    },
+    {
+      "word": "welcher",
+      "translation": "which",
+      "category": "grammar"
+    },
+    {
+      "word": "hier",
+      "translation": "here",
+      "category": "grammar"
+    },
+    {
+      "word": "dort",
+      "translation": "there",
+      "category": "grammar"
+    },
+    {
+      "word": "jetzt",
+      "translation": "now",
+      "category": "grammar"
+    },
+    {
+      "word": "immer",
+      "translation": "always",
+      "category": "grammar"
+    },
+    {
+      "word": "nie",
+      "translation": "never",
+      "category": "grammar"
+    },
+    {
+      "word": "und",
+      "translation": "and",
+      "category": "grammar"
+    },
+    {
+      "word": "aber",
+      "translation": "but",
+      "category": "grammar"
+    },
+    {
+      "word": "mit",
+      "translation": "with",
+      "category": "grammar"
+    },
+    {
+      "word": "ohne",
+      "translation": "without",
+      "category": "grammar"
+    },
+    {
+      "word": "hallo",
+      "translation": "hello",
+      "category": "phrases"
+    },
+    {
+      "word": "auf Wiedersehen",
+      "translation": "goodbye",
+      "category": "phrases"
+    },
+    {
+      "word": "danke",
+      "translation": "thank you",
+      "category": "phrases"
+    },
+    {
+      "word": "bitte",
+      "translation": "please",
+      "category": "phrases"
+    },
+    {
+      "word": "Entschuldigung",
+      "translation": "sorry",
+      "category": "phrases"
+    },
+    {
+      "word": "ja",
+      "translation": "yes",
+      "category": "phrases"
+    },
+    {
+      "word": "nein",
+      "translation": "no",
+      "category": "phrases"
+    },
+    {
+      "word": "gute Nacht",
+      "translation": "good night",
+      "category": "phrases"
+    },
+    {
+      "word": "willkommen",
+      "translation": "welcome",
+      "category": "phrases"
+    },
+    {
+      "word": "Glückwunsch",
+      "translation": "congratulations",
+      "category": "phrases"
+    },
+    {
+      "word": "vielleicht",
+      "translation": "maybe",
+      "category": "phrases"
+    },
+    {
+      "word": "natürlich",
+      "translation": "of course",
+      "category": "phrases"
+    }
+  ]
+}

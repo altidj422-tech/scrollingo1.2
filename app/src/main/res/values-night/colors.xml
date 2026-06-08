@@ -1,0 +1,23 @@
+<resources>
+    <!-- Dark-mode overrides. Only the SEMANTIC colors flip; the brand accents
+         (purple/blue/red/yellow) stay the same so the app keeps its identity.
+         Every drawable/layout references these by name, so overriding them here
+         is all that's needed to flip cards, chips, text and borders. -->
+
+    <!-- Surfaces: a dark, subtly purple-tinted background with slightly lighter cards. -->
+    <color name="background">#14121A</color>
+    <color name="surface">#211D2B</color>
+    <color name="border">#332E40</color>
+    <color name="border_dark">#3D3749</color>
+    <color name="disabled">#2B2736</color>
+    <color name="disabled_dark">#3A3548</color>
+
+    <!-- Text: near-white primary, stepping down to muted/hint greys. -->
+    <color name="text_dark">#EDEAF4</color>
+    <color name="text_muted">#B4AEC2</color>
+    <color name="text_hint">#837D92</color>
+
+    <!-- Selected/activated chip fill. Light blue is unreadable behind light text
+         in dark mode, so use a deep blue; the bright "blue" stroke still outlines it. -->
+    <color name="blue_light">#15344B</color>
+</resources>

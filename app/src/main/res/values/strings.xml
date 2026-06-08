@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scrollingo</string>
+    <string name="accessibility_service_label">Scrollingo Scroll Detector</string>
+    <string name="accessibility_service_description">Lets Scrollingo notice when you swipe through videos in TikTok and Instagram Reels, so it can pop up a quick language quiz after every few videos. No scroll content is stored or sent anywhere.</string>
+</resources>

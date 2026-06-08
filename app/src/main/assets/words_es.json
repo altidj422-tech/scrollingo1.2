@@ -1,0 +1,2501 @@
+{
+  "language": "Spanish",
+  "version": 2,
+  "words": [
+    {
+      "word": "uno",
+      "translation": "one",
+      "category": "numbers"
+    },
+    {
+      "word": "dos",
+      "translation": "two",
+      "category": "numbers"
+    },
+    {
+      "word": "tres",
+      "translation": "three",
+      "category": "numbers"
+    },
+    {
+      "word": "cuatro",
+      "translation": "four",
+      "category": "numbers"
+    },
+    {
+      "word": "cinco",
+      "translation": "five",
+      "category": "numbers"
+    },
+    {
+      "word": "seis",
+      "translation": "six",
+      "category": "numbers"
+    },
+    {
+      "word": "siete",
+      "translation": "seven",
+      "category": "numbers"
+    },
+    {
+      "word": "ocho",
+      "translation": "eight",
+      "category": "numbers"
+    },
+    {
+      "word": "nueve",
+      "translation": "nine",
+      "category": "numbers"
+    },
+    {
+      "word": "diez",
+      "translation": "ten",
+      "category": "numbers"
+    },
+    {
+      "word": "once",
+      "translation": "eleven",
+      "category": "numbers"
+    },
+    {
+      "word": "doce",
+      "translation": "twelve",
+      "category": "numbers"
+    },
+    {
+      "word": "trece",
+      "translation": "thirteen",
+      "category": "numbers"
+    },
+    {
+      "word": "catorce",
+      "translation": "fourteen",
+      "category": "numbers"
+    },
+    {
+      "word": "quince",
+      "translation": "fifteen",
+      "category": "numbers"
+    },
+    {
+      "word": "dieciséis",
+      "translation": "sixteen",
+      "category": "numbers"
+    },
+    {
+      "word": "diecisiete",
+      "translation": "seventeen",
+      "category": "numbers"
+    },
+    {
+      "word": "dieciocho",
+      "translation": "eighteen",
+      "category": "numbers"
+    },
+    {
+      "word": "diecinueve",
+      "translation": "nineteen",
+      "category": "numbers"
+    },
+    {
+      "word": "veinte",
+      "translation": "twenty",
+      "category": "numbers"
+    },
+    {
+      "word": "treinta",
+      "translation": "thirty",
+      "category": "numbers"
+    },
+    {
+      "word": "cuarenta",
+      "translation": "forty",
+      "category": "numbers"
+    },
+    {
+      "word": "cincuenta",
+      "translation": "fifty",
+      "category": "numbers"
+    },
+    {
+      "word": "sesenta",
+      "translation": "sixty",
+      "category": "numbers"
+    },
+    {
+      "word": "setenta",
+      "translation": "seventy",
+      "category": "numbers"
+    },
+    {
+      "word": "ochenta",
+      "translation": "eighty",
+      "category": "numbers"
+    },
+    {
+      "word": "noventa",
+      "translation": "ninety",
+      "category": "numbers"
+    },
+    {
+      "word": "cien",
+      "translation": "hundred",
+      "category": "numbers"
+    },
+    {
+      "word": "mil",
+      "translation": "thousand",
+      "category": "numbers"
+    },
+    {
+      "word": "millón",
+      "translation": "million",
+      "category": "numbers"
+    },
+    {
+      "word": "rojo",
+      "translation": "red",
+      "category": "colors"
+    },
+    {
+      "word": "azul",
+      "translation": "blue",
+      "category": "colors"
+    },
+    {
+      "word": "verde",
+      "translation": "green",
+      "category": "colors"
+    },
+    {
+      "word": "amarillo",
+      "translation": "yellow",
+      "category": "colors"
+    },
+    {
+      "word": "negro",
+      "translation": "black",
+      "category": "colors"
+    },
+    {
+      "word": "blanco",
+      "translation": "white",
+      "category": "colors"
+    },
+    {
+      "word": "naranja",
+      "translation": "orange",
+      "category": "colors"
+    },
+    {
+      "word": "marrón",
+      "translation": "brown",
+      "category": "colors"
+    },
+    {
+      "word": "rosa",
+      "translation": "pink",
+      "category": "colors"
+    },
+    {
+      "word": "morado",
+      "translation": "purple",
+      "category": "colors"
+    },
+    {
+      "word": "gris",
+      "translation": "gray",
+      "category": "colors"
+    },
+    {
+      "word": "madre",
+      "translation": "mother",
+      "category": "people"
+    },
+    {
+      "word": "padre",
+      "translation": "father",
+      "category": "people"
+    },
+    {
+      "word": "hermano",
+      "translation": "brother",
+      "category": "people"
+    },
+    {
+      "word": "hermana",
+      "translation": "sister",
+      "category": "people"
+    },
+    {
+      "word": "hijo",
+      "translation": "son",
+      "category": "people"
+    },
+    {
+      "word": "hija",
+      "translation": "daughter",
+      "category": "people"
+    },
+    {
+      "word": "familia",
+      "translation": "family",
+      "category": "people"
+    },
+    {
+      "word": "bebé",
+      "translation": "baby",
+      "category": "people"
+    },
+    {
+      "word": "hombre",
+      "translation": "man",
+      "category": "people"
+    },
+    {
+      "word": "mujer",
+      "translation": "woman",
+      "category": "people"
+    },
+    {
+      "word": "niño",
+      "translation": "child",
+      "category": "people"
+    },
+    {
+      "word": "amigo",
+      "translation": "friend",
+      "category": "people"
+    },
+    {
+      "word": "gente",
+      "translation": "people",
+      "category": "people"
+    },
+    {
+      "word": "marido",
+      "translation": "husband",
+      "category": "people"
+    },
+    {
+      "word": "esposa",
+      "translation": "wife",
+      "category": "people"
+    },
+    {
+      "word": "abuelo",
+      "translation": "grandfather",
+      "category": "people"
+    },
+    {
+      "word": "abuela",
+      "translation": "grandmother",
+      "category": "people"
+    },
+    {
+      "word": "tío",
+      "translation": "uncle",
+      "category": "people"
+    },
+    {
+      "word": "tía",
+      "translation": "aunt",
+      "category": "people"
+    },
+    {
+      "word": "primo",
+      "translation": "cousin",
+      "category": "people"
+    },
+    {
+      "word": "vecino",
+      "translation": "neighbor",
+      "category": "people"
+    },
+    {
+      "word": "invitado",
+      "translation": "guest",
+      "category": "people"
+    },
+    {
+      "word": "mano",
+      "translation": "hand",
+      "category": "body"
+    },
+    {
+      "word": "ojo",
+      "translation": "eye",
+      "category": "body"
+    },
+    {
+      "word": "cabeza",
+      "translation": "head",
+      "category": "body"
+    },
+    {
+      "word": "corazón",
+      "translation": "heart",
+      "category": "body"
+    },
+    {
+      "word": "pie",
+      "translation": "foot",
+      "category": "body"
+    },
+    {
+      "word": "pierna",
+      "translation": "leg",
+      "category": "body"
+    },
+    {
+      "word": "brazo",
+      "translation": "arm",
+      "category": "body"
+    },
+    {
+      "word": "dedo",
+      "translation": "finger",
+      "category": "body"
+    },
+    {
+      "word": "boca",
+      "translation": "mouth",
+      "category": "body"
+    },
+    {
+      "word": "nariz",
+      "translation": "nose",
+      "category": "body"
+    },
+    {
+      "word": "oreja",
+      "translation": "ear",
+      "category": "body"
+    },
+    {
+      "word": "pelo",
+      "translation": "hair",
+      "category": "body"
+    },
+    {
+      "word": "diente",
+      "translation": "tooth",
+      "category": "body"
+    },
+    {
+      "word": "cara",
+      "translation": "face",
+      "category": "body"
+    },
+    {
+      "word": "cuello",
+      "translation": "neck",
+      "category": "body"
+    },
+    {
+      "word": "espalda",
+      "translation": "back",
+      "category": "body"
+    },
+    {
+      "word": "piel",
+      "translation": "skin",
+      "category": "body"
+    },
+    {
+      "word": "sangre",
+      "translation": "blood",
+      "category": "body"
+    },
+    {
+      "word": "hueso",
+      "translation": "bone",
+      "category": "body"
+    },
+    {
+      "word": "cerebro",
+      "translation": "brain",
+      "category": "body"
+    },
+    {
+      "word": "estómago",
+      "translation": "stomach",
+      "category": "body"
+    },
+    {
+      "word": "rodilla",
+      "translation": "knee",
+      "category": "body"
+    },
+    {
+      "word": "hombro",
+      "translation": "shoulder",
+      "category": "body"
+    },
+    {
+      "word": "voz",
+      "translation": "voice",
+      "category": "body"
+    },
+    {
+      "word": "perro",
+      "translation": "dog",
+      "category": "animals"
+    },
+    {
+      "word": "gato",
+      "translation": "cat",
+      "category": "animals"
+    },
+    {
+      "word": "pájaro",
+      "translation": "bird",
+      "category": "animals"
+    },
+    {
+      "word": "pez",
+      "translation": "fish",
+      "category": "animals"
+    },
+    {
+      "word": "caballo",
+      "translation": "horse",
+      "category": "animals"
+    },
+    {
+      "word": "vaca",
+      "translation": "cow",
+      "category": "animals"
+    },
+    {
+      "word": "león",
+      "translation": "lion",
+      "category": "animals"
+    },
+    {
+      "word": "oso",
+      "translation": "bear",
+      "category": "animals"
+    },
+    {
+      "word": "cerdo",
+      "translation": "pig",
+      "category": "animals"
+    },
+    {
+      "word": "oveja",
+      "translation": "sheep",
+      "category": "animals"
+    },
+    {
+      "word": "pollo",
+      "translation": "chicken",
+      "category": "animals"
+    },
+    {
+      "word": "pato",
+      "translation": "duck",
+      "category": "animals"
+    },
+    {
+      "word": "conejo",
+      "translation": "rabbit",
+      "category": "animals"
+    },
+    {
+      "word": "ratón",
+      "translation": "mouse",
+      "category": "animals"
+    },
+    {
+      "word": "serpiente",
+      "translation": "snake",
+      "category": "animals"
+    },
+    {
+      "word": "elefante",
+      "translation": "elephant",
+      "category": "animals"
+    },
+    {
+      "word": "mono",
+      "translation": "monkey",
+      "category": "animals"
+    },
+    {
+      "word": "lobo",
+      "translation": "wolf",
+      "category": "animals"
+    },
+    {
+      "word": "zorro",
+      "translation": "fox",
+      "category": "animals"
+    },
+    {
+      "word": "tigre",
+      "translation": "tiger",
+      "category": "animals"
+    },
+    {
+      "word": "abeja",
+      "translation": "bee",
+      "category": "animals"
+    },
+    {
+      "word": "araña",
+      "translation": "spider",
+      "category": "animals"
+    },
+    {
+      "word": "rana",
+      "translation": "frog",
+      "category": "animals"
+    },
+    {
+      "word": "insecto",
+      "translation": "insect",
+      "category": "animals"
+    },
+    {
+      "word": "cabra",
+      "translation": "goat",
+      "category": "animals"
+    },
+    {
+      "word": "ciervo",
+      "translation": "deer",
+      "category": "animals"
+    },
+    {
+      "word": "burro",
+      "translation": "donkey",
+      "category": "animals"
+    },
+    {
+      "word": "agua",
+      "translation": "water",
+      "category": "food"
+    },
+    {
+      "word": "pan",
+      "translation": "bread",
+      "category": "food"
+    },
+    {
+      "word": "leche",
+      "translation": "milk",
+      "category": "food"
+    },
+    {
+      "word": "café",
+      "translation": "coffee",
+      "category": "food"
+    },
+    {
+      "word": "té",
+      "translation": "tea",
+      "category": "food"
+    },
+    {
+      "word": "carne",
+      "translation": "meat",
+      "category": "food"
+    },
+    {
+      "word": "queso",
+      "translation": "cheese",
+      "category": "food"
+    },
+    {
+      "word": "huevo",
+      "translation": "egg",
+      "category": "food"
+    },
+    {
+      "word": "vino",
+      "translation": "wine",
+      "category": "food"
+    },
+    {
+      "word": "cerveza",
+      "translation": "beer",
+      "category": "food"
+    },
+    {
+      "word": "fruta",
+      "translation": "fruit",
+      "category": "food"
+    },
+    {
+      "word": "manzana",
+      "translation": "apple",
+      "category": "food"
+    },
+    {
+      "word": "plátano",
+      "translation": "banana",
+      "category": "food"
+    },
+    {
+      "word": "uva",
+      "translation": "grape",
+      "category": "food"
+    },
+    {
+      "word": "limón",
+      "translation": "lemon",
+      "category": "food"
+    },
+    {
+      "word": "azúcar",
+      "translation": "sugar",
+      "category": "food"
+    },
+    {
+      "word": "sal",
+      "translation": "salt",
+      "category": "food"
+    },
+    {
+      "word": "pimienta",
+      "translation": "pepper",
+      "category": "food"
+    },
+    {
+      "word": "arroz",
+      "translation": "rice",
+      "category": "food"
+    },
+    {
+      "word": "sopa",
+      "translation": "soup",
+      "category": "food"
+    },
+    {
+      "word": "verdura",
+      "translation": "vegetable",
+      "category": "food"
+    },
+    {
+      "word": "patata",
+      "translation": "potato",
+      "category": "food"
+    },
+    {
+      "word": "tomate",
+      "translation": "tomato",
+      "category": "food"
+    },
+    {
+      "word": "cebolla",
+      "translation": "onion",
+      "category": "food"
+    },
+    {
+      "word": "mantequilla",
+      "translation": "butter",
+      "category": "food"
+    },
+    {
+      "word": "chocolate",
+      "translation": "chocolate",
+      "category": "food"
+    },
+    {
+      "word": "miel",
+      "translation": "honey",
+      "category": "food"
+    },
+    {
+      "word": "jugo",
+      "translation": "juice",
+      "category": "food"
+    },
+    {
+      "word": "ensalada",
+      "translation": "salad",
+      "category": "food"
+    },
+    {
+      "word": "pastel",
+      "translation": "cake",
+      "category": "food"
+    },
+    {
+      "word": "helado",
+      "translation": "ice cream",
+      "category": "food"
+    },
+    {
+      "word": "desayuno",
+      "translation": "breakfast",
+      "category": "food"
+    },
+    {
+      "word": "almuerzo",
+      "translation": "lunch",
+      "category": "food"
+    },
+    {
+      "word": "cena",
+      "translation": "dinner",
+      "category": "food"
+    },
+    {
+      "word": "comida",
+      "translation": "meal",
+      "category": "food"
+    },
+    {
+      "word": "casa",
+      "translation": "house",
+      "category": "house"
+    },
+    {
+      "word": "puerta",
+      "translation": "door",
+      "category": "house"
+    },
+    {
+      "word": "ventana",
+      "translation": "window",
+      "category": "house"
+    },
+    {
+      "word": "mesa",
+      "translation": "table",
+      "category": "house"
+    },
+    {
+      "word": "silla",
+      "translation": "chair",
+      "category": "house"
+    },
+    {
+      "word": "cama",
+      "translation": "bed",
+      "category": "house"
+    },
+    {
+      "word": "llave",
+      "translation": "key",
+      "category": "house"
+    },
+    {
+      "word": "habitación",
+      "translation": "room",
+      "category": "house"
+    },
+    {
+      "word": "cocina",
+      "translation": "kitchen",
+      "category": "house"
+    },
+    {
+      "word": "baño",
+      "translation": "bathroom",
+      "category": "house"
+    },
+    {
+      "word": "jardín",
+      "translation": "garden",
+      "category": "house"
+    },
+    {
+      "word": "pared",
+      "translation": "wall",
+      "category": "house"
+    },
+    {
+      "word": "suelo",
+      "translation": "floor",
+      "category": "house"
+    },
+    {
+      "word": "techo",
+      "translation": "roof",
+      "category": "house"
+    },
+    {
+      "word": "lámpara",
+      "translation": "lamp",
+      "category": "house"
+    },
+    {
+      "word": "espejo",
+      "translation": "mirror",
+      "category": "house"
+    },
+    {
+      "word": "reloj",
+      "translation": "clock",
+      "category": "house"
+    },
+    {
+      "word": "teléfono",
+      "translation": "phone",
+      "category": "house"
+    },
+    {
+      "word": "computadora",
+      "translation": "computer",
+      "category": "house"
+    },
+    {
+      "word": "televisión",
+      "translation": "television",
+      "category": "house"
+    },
+    {
+      "word": "botella",
+      "translation": "bottle",
+      "category": "house"
+    },
+    {
+      "word": "vaso",
+      "translation": "glass",
+      "category": "house"
+    },
+    {
+      "word": "taza",
+      "translation": "cup",
+      "category": "house"
+    },
+    {
+      "word": "plato",
+      "translation": "plate",
+      "category": "house"
+    },
+    {
+      "word": "cuchara",
+      "translation": "spoon",
+      "category": "house"
+    },
+    {
+      "word": "tenedor",
+      "translation": "fork",
+      "category": "house"
+    },
+    {
+      "word": "cuchillo",
+      "translation": "knife",
+      "category": "house"
+    },
+    {
+      "word": "jabón",
+      "translation": "soap",
+      "category": "house"
+    },
+    {
+      "word": "toalla",
+      "translation": "towel",
+      "category": "house"
+    },
+    {
+      "word": "caja",
+      "translation": "box",
+      "category": "house"
+    },
+    {
+      "word": "bolsa",
+      "translation": "bag",
+      "category": "house"
+    },
+    {
+      "word": "papel",
+      "translation": "paper",
+      "category": "house"
+    },
+    {
+      "word": "bolígrafo",
+      "translation": "pen",
+      "category": "house"
+    },
+    {
+      "word": "lápiz",
+      "translation": "pencil",
+      "category": "house"
+    },
+    {
+      "word": "foto",
+      "translation": "photo",
+      "category": "house"
+    },
+    {
+      "word": "camisa",
+      "translation": "shirt",
+      "category": "clothing"
+    },
+    {
+      "word": "pantalones",
+      "translation": "pants",
+      "category": "clothing"
+    },
+    {
+      "word": "zapato",
+      "translation": "shoe",
+      "category": "clothing"
+    },
+    {
+      "word": "sombrero",
+      "translation": "hat",
+      "category": "clothing"
+    },
+    {
+      "word": "vestido",
+      "translation": "dress",
+      "category": "clothing"
+    },
+    {
+      "word": "abrigo",
+      "translation": "coat",
+      "category": "clothing"
+    },
+    {
+      "word": "calcetín",
+      "translation": "sock",
+      "category": "clothing"
+    },
+    {
+      "word": "guante",
+      "translation": "glove",
+      "category": "clothing"
+    },
+    {
+      "word": "falda",
+      "translation": "skirt",
+      "category": "clothing"
+    },
+    {
+      "word": "chaqueta",
+      "translation": "jacket",
+      "category": "clothing"
+    },
+    {
+      "word": "anillo",
+      "translation": "ring",
+      "category": "clothing"
+    },
+    {
+      "word": "gafas",
+      "translation": "glasses",
+      "category": "clothing"
+    },
+    {
+      "word": "ropa",
+      "translation": "clothes",
+      "category": "clothing"
+    },
+    {
+      "word": "ciudad",
+      "translation": "city",
+      "category": "places"
+    },
+    {
+      "word": "calle",
+      "translation": "street",
+      "category": "places"
+    },
+    {
+      "word": "escuela",
+      "translation": "school",
+      "category": "places"
+    },
+    {
+      "word": "trabajo",
+      "translation": "work",
+      "category": "places"
+    },
+    {
+      "word": "tienda",
+      "translation": "shop",
+      "category": "places"
+    },
+    {
+      "word": "hospital",
+      "translation": "hospital",
+      "category": "places"
+    },
+    {
+      "word": "parque",
+      "translation": "park",
+      "category": "places"
+    },
+    {
+      "word": "restaurante",
+      "translation": "restaurant",
+      "category": "places"
+    },
+    {
+      "word": "iglesia",
+      "translation": "church",
+      "category": "places"
+    },
+    {
+      "word": "mercado",
+      "translation": "market",
+      "category": "places"
+    },
+    {
+      "word": "banco",
+      "translation": "bank",
+      "category": "places"
+    },
+    {
+      "word": "aeropuerto",
+      "translation": "airport",
+      "category": "places"
+    },
+    {
+      "word": "estación",
+      "translation": "station",
+      "category": "places"
+    },
+    {
+      "word": "hotel",
+      "translation": "hotel",
+      "category": "places"
+    },
+    {
+      "word": "biblioteca",
+      "translation": "library",
+      "category": "places"
+    },
+    {
+      "word": "oficina",
+      "translation": "office",
+      "category": "places"
+    },
+    {
+      "word": "granja",
+      "translation": "farm",
+      "category": "places"
+    },
+    {
+      "word": "pueblo",
+      "translation": "village",
+      "category": "places"
+    },
+    {
+      "word": "puente",
+      "translation": "bridge",
+      "category": "places"
+    },
+    {
+      "word": "museo",
+      "translation": "museum",
+      "category": "places"
+    },
+    {
+      "word": "playa",
+      "translation": "beach",
+      "category": "places"
+    },
+    {
+      "word": "país",
+      "translation": "country",
+      "category": "places"
+    },
+    {
+      "word": "mundo",
+      "translation": "world",
+      "category": "places"
+    },
+    {
+      "word": "sol",
+      "translation": "sun",
+      "category": "nature"
+    },
+    {
+      "word": "luna",
+      "translation": "moon",
+      "category": "nature"
+    },
+    {
+      "word": "estrella",
+      "translation": "star",
+      "category": "nature"
+    },
+    {
+      "word": "cielo",
+      "translation": "sky",
+      "category": "nature"
+    },
+    {
+      "word": "mar",
+      "translation": "sea",
+      "category": "nature"
+    },
+    {
+      "word": "río",
+      "translation": "river",
+      "category": "nature"
+    },
+    {
+      "word": "montaña",
+      "translation": "mountain",
+      "category": "nature"
+    },
+    {
+      "word": "árbol",
+      "translation": "tree",
+      "category": "nature"
+    },
+    {
+      "word": "flor",
+      "translation": "flower",
+      "category": "nature"
+    },
+    {
+      "word": "lluvia",
+      "translation": "rain",
+      "category": "nature"
+    },
+    {
+      "word": "nieve",
+      "translation": "snow",
+      "category": "nature"
+    },
+    {
+      "word": "fuego",
+      "translation": "fire",
+      "category": "nature"
+    },
+    {
+      "word": "viento",
+      "translation": "wind",
+      "category": "nature"
+    },
+    {
+      "word": "nube",
+      "translation": "cloud",
+      "category": "nature"
+    },
+    {
+      "word": "tierra",
+      "translation": "earth",
+      "category": "nature"
+    },
+    {
+      "word": "piedra",
+      "translation": "stone",
+      "category": "nature"
+    },
+    {
+      "word": "bosque",
+      "translation": "forest",
+      "category": "nature"
+    },
+    {
+      "word": "lago",
+      "translation": "lake",
+      "category": "nature"
+    },
+    {
+      "word": "isla",
+      "translation": "island",
+      "category": "nature"
+    },
+    {
+      "word": "hierba",
+      "translation": "grass",
+      "category": "nature"
+    },
+    {
+      "word": "hoja",
+      "translation": "leaf",
+      "category": "nature"
+    },
+    {
+      "word": "arena",
+      "translation": "sand",
+      "category": "nature"
+    },
+    {
+      "word": "campo",
+      "translation": "field",
+      "category": "nature"
+    },
+    {
+      "word": "aire",
+      "translation": "air",
+      "category": "nature"
+    },
+    {
+      "word": "luz",
+      "translation": "light",
+      "category": "nature"
+    },
+    {
+      "word": "día",
+      "translation": "day",
+      "category": "time"
+    },
+    {
+      "word": "noche",
+      "translation": "night",
+      "category": "time"
+    },
+    {
+      "word": "mañana",
+      "translation": "morning",
+      "category": "time"
+    },
+    {
+      "word": "tarde",
+      "translation": "evening",
+      "category": "time"
+    },
+    {
+      "word": "hoy",
+      "translation": "today",
+      "category": "time"
+    },
+    {
+      "word": "ayer",
+      "translation": "yesterday",
+      "category": "time"
+    },
+    {
+      "word": "semana",
+      "translation": "week",
+      "category": "time"
+    },
+    {
+      "word": "mes",
+      "translation": "month",
+      "category": "time"
+    },
+    {
+      "word": "año",
+      "translation": "year",
+      "category": "time"
+    },
+    {
+      "word": "hora",
+      "translation": "hour",
+      "category": "time"
+    },
+    {
+      "word": "minuto",
+      "translation": "minute",
+      "category": "time"
+    },
+    {
+      "word": "segundo",
+      "translation": "second",
+      "category": "time"
+    },
+    {
+      "word": "tiempo",
+      "translation": "time",
+      "category": "time"
+    },
+    {
+      "word": "momento",
+      "translation": "moment",
+      "category": "time"
+    },
+    {
+      "word": "lunes",
+      "translation": "Monday",
+      "category": "time"
+    },
+    {
+      "word": "martes",
+      "translation": "Tuesday",
+      "category": "time"
+    },
+    {
+      "word": "miércoles",
+      "translation": "Wednesday",
+      "category": "time"
+    },
+    {
+      "word": "jueves",
+      "translation": "Thursday",
+      "category": "time"
+    },
+    {
+      "word": "viernes",
+      "translation": "Friday",
+      "category": "time"
+    },
+    {
+      "word": "sábado",
+      "translation": "Saturday",
+      "category": "time"
+    },
+    {
+      "word": "domingo",
+      "translation": "Sunday",
+      "category": "time"
+    },
+    {
+      "word": "enero",
+      "translation": "January",
+      "category": "time"
+    },
+    {
+      "word": "febrero",
+      "translation": "February",
+      "category": "time"
+    },
+    {
+      "word": "marzo",
+      "translation": "March",
+      "category": "time"
+    },
+    {
+      "word": "abril",
+      "translation": "April",
+      "category": "time"
+    },
+    {
+      "word": "mayo",
+      "translation": "May",
+      "category": "time"
+    },
+    {
+      "word": "junio",
+      "translation": "June",
+      "category": "time"
+    },
+    {
+      "word": "julio",
+      "translation": "July",
+      "category": "time"
+    },
+    {
+      "word": "agosto",
+      "translation": "August",
+      "category": "time"
+    },
+    {
+      "word": "septiembre",
+      "translation": "September",
+      "category": "time"
+    },
+    {
+      "word": "octubre",
+      "translation": "October",
+      "category": "time"
+    },
+    {
+      "word": "noviembre",
+      "translation": "November",
+      "category": "time"
+    },
+    {
+      "word": "diciembre",
+      "translation": "December",
+      "category": "time"
+    },
+    {
+      "word": "comer",
+      "translation": "to eat",
+      "category": "verbs"
+    },
+    {
+      "word": "beber",
+      "translation": "to drink",
+      "category": "verbs"
+    },
+    {
+      "word": "correr",
+      "translation": "to run",
+      "category": "verbs"
+    },
+    {
+      "word": "dormir",
+      "translation": "to sleep",
+      "category": "verbs"
+    },
+    {
+      "word": "ir",
+      "translation": "to go",
+      "category": "verbs"
+    },
+    {
+      "word": "venir",
+      "translation": "to come",
+      "category": "verbs"
+    },
+    {
+      "word": "ver",
+      "translation": "to see",
+      "category": "verbs"
+    },
+    {
+      "word": "mirar",
+      "translation": "to look",
+      "category": "verbs"
+    },
+    {
+      "word": "escuchar",
+      "translation": "to listen",
+      "category": "verbs"
+    },
+    {
+      "word": "hablar",
+      "translation": "to speak",
+      "category": "verbs"
+    },
+    {
+      "word": "decir",
+      "translation": "to say",
+      "category": "verbs"
+    },
+    {
+      "word": "leer",
+      "translation": "to read",
+      "category": "verbs"
+    },
+    {
+      "word": "escribir",
+      "translation": "to write",
+      "category": "verbs"
+    },
+    {
+      "word": "querer",
+      "translation": "to want",
+      "category": "verbs"
+    },
+    {
+      "word": "tener",
+      "translation": "to have",
+      "category": "verbs"
+    },
+    {
+      "word": "amar",
+      "translation": "to love",
+      "category": "verbs"
+    },
+    {
+      "word": "trabajar",
+      "translation": "to work",
+      "category": "verbs"
+    },
+    {
+      "word": "comprar",
+      "translation": "to buy",
+      "category": "verbs"
+    },
+    {
+      "word": "vender",
+      "translation": "to sell",
+      "category": "verbs"
+    },
+    {
+      "word": "pagar",
+      "translation": "to pay",
+      "category": "verbs"
+    },
+    {
+      "word": "dar",
+      "translation": "to give",
+      "category": "verbs"
+    },
+    {
+      "word": "tomar",
+      "translation": "to take",
+      "category": "verbs"
+    },
+    {
+      "word": "traer",
+      "translation": "to bring",
+      "category": "verbs"
+    },
+    {
+      "word": "enviar",
+      "translation": "to send",
+      "category": "verbs"
+    },
+    {
+      "word": "hacer",
+      "translation": "to make",
+      "category": "verbs"
+    },
+    {
+      "word": "saber",
+      "translation": "to know",
+      "category": "verbs"
+    },
+    {
+      "word": "pensar",
+      "translation": "to think",
+      "category": "verbs"
+    },
+    {
+      "word": "creer",
+      "translation": "to believe",
+      "category": "verbs"
+    },
+    {
+      "word": "encontrar",
+      "translation": "to find",
+      "category": "verbs"
+    },
+    {
+      "word": "abrir",
+      "translation": "to open",
+      "category": "verbs"
+    },
+    {
+      "word": "cerrar",
+      "translation": "to close",
+      "category": "verbs"
+    },
+    {
+      "word": "jugar",
+      "translation": "to play",
+      "category": "verbs"
+    },
+    {
+      "word": "cantar",
+      "translation": "to sing",
+      "category": "verbs"
+    },
+    {
+      "word": "bailar",
+      "translation": "to dance",
+      "category": "verbs"
+    },
+    {
+      "word": "aprender",
+      "translation": "to learn",
+      "category": "verbs"
+    },
+    {
+      "word": "enseñar",
+      "translation": "to teach",
+      "category": "verbs"
+    },
+    {
+      "word": "entender",
+      "translation": "to understand",
+      "category": "verbs"
+    },
+    {
+      "word": "preguntar",
+      "translation": "to ask",
+      "category": "verbs"
+    },
+    {
+      "word": "responder",
+      "translation": "to answer",
+      "category": "verbs"
+    },
+    {
+      "word": "ayudar",
+      "translation": "to help",
+      "category": "verbs"
+    },
+    {
+      "word": "necesitar",
+      "translation": "to need",
+      "category": "verbs"
+    },
+    {
+      "word": "vivir",
+      "translation": "to live",
+      "category": "verbs"
+    },
+    {
+      "word": "morir",
+      "translation": "to die",
+      "category": "verbs"
+    },
+    {
+      "word": "esperar",
+      "translation": "to wait",
+      "category": "verbs"
+    },
+    {
+      "word": "empezar",
+      "translation": "to begin",
+      "category": "verbs"
+    },
+    {
+      "word": "terminar",
+      "translation": "to finish",
+      "category": "verbs"
+    },
+    {
+      "word": "poner",
+      "translation": "to put",
+      "category": "verbs"
+    },
+    {
+      "word": "llamar",
+      "translation": "to call",
+      "category": "verbs"
+    },
+    {
+      "word": "sentir",
+      "translation": "to feel",
+      "category": "verbs"
+    },
+    {
+      "word": "salir",
+      "translation": "to leave",
+      "category": "verbs"
+    },
+    {
+      "word": "perder",
+      "translation": "to lose",
+      "category": "verbs"
+    },
+    {
+      "word": "ganar",
+      "translation": "to win",
+      "category": "verbs"
+    },
+    {
+      "word": "conducir",
+      "translation": "to drive",
+      "category": "verbs"
+    },
+    {
+      "word": "volar",
+      "translation": "to fly",
+      "category": "verbs"
+    },
+    {
+      "word": "lavar",
+      "translation": "to wash",
+      "category": "verbs"
+    },
+    {
+      "word": "cocinar",
+      "translation": "to cook",
+      "category": "verbs"
+    },
+    {
+      "word": "cortar",
+      "translation": "to cut",
+      "category": "verbs"
+    },
+    {
+      "word": "llevar",
+      "translation": "to wear",
+      "category": "verbs"
+    },
+    {
+      "word": "quedarse",
+      "translation": "to stay",
+      "category": "verbs"
+    },
+    {
+      "word": "cambiar",
+      "translation": "to change",
+      "category": "verbs"
+    },
+    {
+      "word": "recordar",
+      "translation": "to remember",
+      "category": "verbs"
+    },
+    {
+      "word": "olvidar",
+      "translation": "to forget",
+      "category": "verbs"
+    },
+    {
+      "word": "romper",
+      "translation": "to break",
+      "category": "verbs"
+    },
+    {
+      "word": "grande",
+      "translation": "big",
+      "category": "adjectives"
+    },
+    {
+      "word": "pequeño",
+      "translation": "small",
+      "category": "adjectives"
+    },
+    {
+      "word": "bueno",
+      "translation": "good",
+      "category": "adjectives"
+    },
+    {
+      "word": "malo",
+      "translation": "bad",
+      "category": "adjectives"
+    },
+    {
+      "word": "caliente",
+      "translation": "hot",
+      "category": "adjectives"
+    },
+    {
+      "word": "frío",
+      "translation": "cold",
+      "category": "adjectives"
+    },
+    {
+      "word": "nuevo",
+      "translation": "new",
+      "category": "adjectives"
+    },
+    {
+      "word": "viejo",
+      "translation": "old",
+      "category": "adjectives"
+    },
+    {
+      "word": "feliz",
+      "translation": "happy",
+      "category": "adjectives"
+    },
+    {
+      "word": "triste",
+      "translation": "sad",
+      "category": "adjectives"
+    },
+    {
+      "word": "rápido",
+      "translation": "fast",
+      "category": "adjectives"
+    },
+    {
+      "word": "lento",
+      "translation": "slow",
+      "category": "adjectives"
+    },
+    {
+      "word": "hermoso",
+      "translation": "beautiful",
+      "category": "adjectives"
+    },
+    {
+      "word": "feo",
+      "translation": "ugly",
+      "category": "adjectives"
+    },
+    {
+      "word": "fácil",
+      "translation": "easy",
+      "category": "adjectives"
+    },
+    {
+      "word": "difícil",
+      "translation": "difficult",
+      "category": "adjectives"
+    },
+    {
+      "word": "largo",
+      "translation": "long",
+      "category": "adjectives"
+    },
+    {
+      "word": "corto",
+      "translation": "short",
+      "category": "adjectives"
+    },
+    {
+      "word": "alto",
+      "translation": "tall",
+      "category": "adjectives"
+    },
+    {
+      "word": "bajo",
+      "translation": "low",
+      "category": "adjectives"
+    },
+    {
+      "word": "fuerte",
+      "translation": "strong",
+      "category": "adjectives"
+    },
+    {
+      "word": "débil",
+      "translation": "weak",
+      "category": "adjectives"
+    },
+    {
+      "word": "rico",
+      "translation": "rich",
+      "category": "adjectives"
+    },
+    {
+      "word": "pobre",
+      "translation": "poor",
+      "category": "adjectives"
+    },
+    {
+      "word": "joven",
+      "translation": "young",
+      "category": "adjectives"
+    },
+    {
+      "word": "lleno",
+      "translation": "full",
+      "category": "adjectives"
+    },
+    {
+      "word": "vacío",
+      "translation": "empty",
+      "category": "adjectives"
+    },
+    {
+      "word": "limpio",
+      "translation": "clean",
+      "category": "adjectives"
+    },
+    {
+      "word": "sucio",
+      "translation": "dirty",
+      "category": "adjectives"
+    },
+    {
+      "word": "oscuro",
+      "translation": "dark",
+      "category": "adjectives"
+    },
+    {
+      "word": "claro",
+      "translation": "bright",
+      "category": "adjectives"
+    },
+    {
+      "word": "pesado",
+      "translation": "heavy",
+      "category": "adjectives"
+    },
+    {
+      "word": "ligero",
+      "translation": "light (not heavy)",
+      "category": "adjectives"
+    },
+    {
+      "word": "caro",
+      "translation": "expensive",
+      "category": "adjectives"
+    },
+    {
+      "word": "barato",
+      "translation": "cheap",
+      "category": "adjectives"
+    },
+    {
+      "word": "correcto",
+      "translation": "correct",
+      "category": "adjectives"
+    },
+    {
+      "word": "incorrecto",
+      "translation": "wrong",
+      "category": "adjectives"
+    },
+    {
+      "word": "verdadero",
+      "translation": "true",
+      "category": "adjectives"
+    },
+    {
+      "word": "importante",
+      "translation": "important",
+      "category": "adjectives"
+    },
+    {
+      "word": "diferente",
+      "translation": "different",
+      "category": "adjectives"
+    },
+    {
+      "word": "mismo",
+      "translation": "same",
+      "category": "adjectives"
+    },
+    {
+      "word": "listo",
+      "translation": "ready",
+      "category": "adjectives"
+    },
+    {
+      "word": "cansado",
+      "translation": "tired",
+      "category": "adjectives"
+    },
+    {
+      "word": "hambriento",
+      "translation": "hungry",
+      "category": "adjectives"
+    },
+    {
+      "word": "enojado",
+      "translation": "angry",
+      "category": "adjectives"
+    },
+    {
+      "word": "asustado",
+      "translation": "afraid",
+      "category": "adjectives"
+    },
+    {
+      "word": "enfermo",
+      "translation": "sick",
+      "category": "adjectives"
+    },
+    {
+      "word": "sano",
+      "translation": "healthy",
+      "category": "adjectives"
+    },
+    {
+      "word": "libre",
+      "translation": "free",
+      "category": "adjectives"
+    },
+    {
+      "word": "ocupado",
+      "translation": "busy",
+      "category": "adjectives"
+    },
+    {
+      "word": "suave",
+      "translation": "soft",
+      "category": "adjectives"
+    },
+    {
+      "word": "duro",
+      "translation": "hard",
+      "category": "adjectives"
+    },
+    {
+      "word": "profundo",
+      "translation": "deep",
+      "category": "adjectives"
+    },
+    {
+      "word": "ancho",
+      "translation": "wide",
+      "category": "adjectives"
+    },
+    {
+      "word": "estrecho",
+      "translation": "narrow",
+      "category": "adjectives"
+    },
+    {
+      "word": "tranquilo",
+      "translation": "quiet",
+      "category": "adjectives"
+    },
+    {
+      "word": "ruidoso",
+      "translation": "loud",
+      "category": "adjectives"
+    },
+    {
+      "word": "seco",
+      "translation": "dry",
+      "category": "adjectives"
+    },
+    {
+      "word": "mojado",
+      "translation": "wet",
+      "category": "adjectives"
+    },
+    {
+      "word": "dulce",
+      "translation": "sweet",
+      "category": "adjectives"
+    },
+    {
+      "word": "amargo",
+      "translation": "bitter",
+      "category": "adjectives"
+    },
+    {
+      "word": "gordo",
+      "translation": "fat",
+      "category": "adjectives"
+    },
+    {
+      "word": "delgado",
+      "translation": "thin",
+      "category": "adjectives"
+    },
+    {
+      "word": "amor",
+      "translation": "love",
+      "category": "abstract"
+    },
+    {
+      "word": "libro",
+      "translation": "book",
+      "category": "abstract"
+    },
+    {
+      "word": "dinero",
+      "translation": "money",
+      "category": "abstract"
+    },
+    {
+      "word": "nombre",
+      "translation": "name",
+      "category": "abstract"
+    },
+    {
+      "word": "palabra",
+      "translation": "word",
+      "category": "abstract"
+    },
+    {
+      "word": "vida",
+      "translation": "life",
+      "category": "abstract"
+    },
+    {
+      "word": "música",
+      "translation": "music",
+      "category": "abstract"
+    },
+    {
+      "word": "idioma",
+      "translation": "language",
+      "category": "abstract"
+    },
+    {
+      "word": "pregunta",
+      "translation": "question",
+      "category": "abstract"
+    },
+    {
+      "word": "respuesta",
+      "translation": "answer",
+      "category": "abstract"
+    },
+    {
+      "word": "problema",
+      "translation": "problem",
+      "category": "abstract"
+    },
+    {
+      "word": "idea",
+      "translation": "idea",
+      "category": "abstract"
+    },
+    {
+      "word": "historia",
+      "translation": "story",
+      "category": "abstract"
+    },
+    {
+      "word": "número",
+      "translation": "number",
+      "category": "abstract"
+    },
+    {
+      "word": "carta",
+      "translation": "letter",
+      "category": "abstract"
+    },
+    {
+      "word": "guerra",
+      "translation": "war",
+      "category": "abstract"
+    },
+    {
+      "word": "paz",
+      "translation": "peace",
+      "category": "abstract"
+    },
+    {
+      "word": "verdad",
+      "translation": "truth",
+      "category": "abstract"
+    },
+    {
+      "word": "poder",
+      "translation": "power",
+      "category": "abstract"
+    },
+    {
+      "word": "dios",
+      "translation": "god",
+      "category": "abstract"
+    },
+    {
+      "word": "muerte",
+      "translation": "death",
+      "category": "abstract"
+    },
+    {
+      "word": "sueño",
+      "translation": "dream",
+      "category": "abstract"
+    },
+    {
+      "word": "esperanza",
+      "translation": "hope",
+      "category": "abstract"
+    },
+    {
+      "word": "miedo",
+      "translation": "fear",
+      "category": "abstract"
+    },
+    {
+      "word": "alegría",
+      "translation": "joy",
+      "category": "abstract"
+    },
+    {
+      "word": "color",
+      "translation": "color",
+      "category": "abstract"
+    },
+    {
+      "word": "sonido",
+      "translation": "sound",
+      "category": "abstract"
+    },
+    {
+      "word": "juego",
+      "translation": "game",
+      "category": "abstract"
+    },
+    {
+      "word": "fiesta",
+      "translation": "party",
+      "category": "abstract"
+    },
+    {
+      "word": "regalo",
+      "translation": "gift",
+      "category": "abstract"
+    },
+    {
+      "word": "precio",
+      "translation": "price",
+      "category": "abstract"
+    },
+    {
+      "word": "arte",
+      "translation": "art",
+      "category": "abstract"
+    },
+    {
+      "word": "ciencia",
+      "translation": "science",
+      "category": "abstract"
+    },
+    {
+      "word": "noticias",
+      "translation": "news",
+      "category": "abstract"
+    },
+    {
+      "word": "empleo",
+      "translation": "job",
+      "category": "abstract"
+    },
+    {
+      "word": "salud",
+      "translation": "health",
+      "category": "abstract"
+    },
+    {
+      "word": "naturaleza",
+      "translation": "nature",
+      "category": "abstract"
+    },
+    {
+      "word": "coche",
+      "translation": "car",
+      "category": "transport"
+    },
+    {
+      "word": "autobús",
+      "translation": "bus",
+      "category": "transport"
+    },
+    {
+      "word": "tren",
+      "translation": "train",
+      "category": "transport"
+    },
+    {
+      "word": "avión",
+      "translation": "plane",
+      "category": "transport"
+    },
+    {
+      "word": "bicicleta",
+      "translation": "bicycle",
+      "category": "transport"
+    },
+    {
+      "word": "barco",
+      "translation": "boat",
+      "category": "transport"
+    },
+    {
+      "word": "buque",
+      "translation": "ship",
+      "category": "transport"
+    },
+    {
+      "word": "camión",
+      "translation": "truck",
+      "category": "transport"
+    },
+    {
+      "word": "motocicleta",
+      "translation": "motorcycle",
+      "category": "transport"
+    },
+    {
+      "word": "billete",
+      "translation": "ticket",
+      "category": "transport"
+    },
+    {
+      "word": "médico",
+      "translation": "doctor",
+      "category": "professions"
+    },
+    {
+      "word": "maestro",
+      "translation": "teacher",
+      "category": "professions"
+    },
+    {
+      "word": "estudiante",
+      "translation": "student",
+      "category": "professions"
+    },
+    {
+      "word": "enfermero",
+      "translation": "nurse",
+      "category": "professions"
+    },
+    {
+      "word": "policía",
+      "translation": "police",
+      "category": "professions"
+    },
+    {
+      "word": "agricultor",
+      "translation": "farmer",
+      "category": "professions"
+    },
+    {
+      "word": "cocinero",
+      "translation": "cook",
+      "category": "professions"
+    },
+    {
+      "word": "conductor",
+      "translation": "driver",
+      "category": "professions"
+    },
+    {
+      "word": "escritor",
+      "translation": "writer",
+      "category": "professions"
+    },
+    {
+      "word": "cantante",
+      "translation": "singer",
+      "category": "professions"
+    },
+    {
+      "word": "artista",
+      "translation": "artist",
+      "category": "professions"
+    },
+    {
+      "word": "rey",
+      "translation": "king",
+      "category": "professions"
+    },
+    {
+      "word": "reina",
+      "translation": "queen",
+      "category": "professions"
+    },
+    {
+      "word": "soldado",
+      "translation": "soldier",
+      "category": "professions"
+    },
+    {
+      "word": "abogado",
+      "translation": "lawyer",
+      "category": "professions"
+    },
+    {
+      "word": "yo",
+      "translation": "I",
+      "category": "grammar"
+    },
+    {
+      "word": "tú",
+      "translation": "you",
+      "category": "grammar"
+    },
+    {
+      "word": "él",
+      "translation": "he",
+      "category": "grammar"
+    },
+    {
+      "word": "ella",
+      "translation": "she",
+      "category": "grammar"
+    },
+    {
+      "word": "nosotros",
+      "translation": "we",
+      "category": "grammar"
+    },
+    {
+      "word": "quién",
+      "translation": "who",
+      "category": "grammar"
+    },
+    {
+      "word": "qué",
+      "translation": "what",
+      "category": "grammar"
+    },
+    {
+      "word": "dónde",
+      "translation": "where",
+      "category": "grammar"
+    },
+    {
+      "word": "cuándo",
+      "translation": "when",
+      "category": "grammar"
+    },
+    {
+      "word": "por qué",
+      "translation": "why",
+      "category": "grammar"
+    },
+    {
+      "word": "cómo",
+      "translation": "how",
+      "category": "grammar"
+    },
+    {
+      "word": "cuál",
+      "translation": "which",
+      "category": "grammar"
+    },
+    {
+      "word": "aquí",
+      "translation": "here",
+      "category": "grammar"
+    },
+    {
+      "word": "allí",
+      "translation": "there",
+      "category": "grammar"
+    },
+    {
+      "word": "ahora",
+      "translation": "now",
+      "category": "grammar"
+    },
+    {
+      "word": "siempre",
+      "translation": "always",
+      "category": "grammar"
+    },
+    {
+      "word": "nunca",
+      "translation": "never",
+      "category": "grammar"
+    },
+    {
+      "word": "y",
+      "translation": "and",
+      "category": "grammar"
+    },
+    {
+      "word": "pero",
+      "translation": "but",
+      "category": "grammar"
+    },
+    {
+      "word": "con",
+      "translation": "with",
+      "category": "grammar"
+    },
+    {
+      "word": "sin",
+      "translation": "without",
+      "category": "grammar"
+    },
+    {
+      "word": "hola",
+      "translation": "hello",
+      "category": "phrases"
+    },
+    {
+      "word": "adiós",
+      "translation": "goodbye",
+      "category": "phrases"
+    },
+    {
+      "word": "gracias",
+      "translation": "thank you",
+      "category": "phrases"
+    },
+    {
+      "word": "por favor",
+      "translation": "please",
+      "category": "phrases"
+    },
+    {
+      "word": "perdón",
+      "translation": "sorry",
+      "category": "phrases"
+    },
+    {
+      "word": "sí",
+      "translation": "yes",
+      "category": "phrases"
+    },
+    {
+      "word": "no",
+      "translation": "no",
+      "category": "phrases"
+    },
+    {
+      "word": "buenas noches",
+      "translation": "good night",
+      "category": "phrases"
+    },
+    {
+      "word": "bienvenido",
+      "translation": "welcome",
+      "category": "phrases"
+    },
+    {
+      "word": "felicidades",
+      "translation": "congratulations",
+      "category": "phrases"
+    },
+    {
+      "word": "quizás",
+      "translation": "maybe",
+      "category": "phrases"
+    },
+    {
+      "word": "por supuesto",
+      "translation": "of course",
+      "category": "phrases"
+    }
+  ]
+}

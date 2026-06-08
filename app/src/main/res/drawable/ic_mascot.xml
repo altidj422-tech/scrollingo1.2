@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Lazy, smiling purple cat -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- ears (behind head) -->
+    <path
+        android:fillColor="#5B2EC9"
+        android:pathData="M26,40 L28,12 L50,33 Z" />
+    <path
+        android:fillColor="#5B2EC9"
+        android:pathData="M74,40 L72,12 L50,33 Z" />
+
+    <!-- inner ears -->
+    <path
+        android:fillColor="#D6C7FF"
+        android:pathData="M31,35 L32,19 L44,32 Z" />
+    <path
+        android:fillColor="#D6C7FF"
+        android:pathData="M69,35 L68,19 L56,32 Z" />
+
+    <!-- head -->
+    <path
+        android:fillColor="#7C4DFF"
+        android:pathData="M22,58 a28,28 0 1,0 56,0 a28,28 0 1,0 -56,0" />
+
+    <!-- soft muzzle / cheeks -->
+    <path
+        android:fillColor="#D6C7FF"
+        android:pathData="M36,65 a15,11 0 1,0 28,0 a15,11 0 1,0 -28,0" />
+
+    <!-- whiskers -->
+    <path
+        android:strokeColor="#5B2EC9"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M33,61 L15,57" />
+    <path
+        android:strokeColor="#5B2EC9"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M33,65 L14,65" />
+    <path
+        android:strokeColor="#5B2EC9"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M33,69 L15,73" />
+    <path
+        android:strokeColor="#5B2EC9"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M67,61 L85,57" />
+    <path
+        android:strokeColor="#5B2EC9"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M67,65 L86,65" />
+    <path
+        android:strokeColor="#5B2EC9"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M67,69 L85,73" />
+
+    <!-- sleepy, content eyes (smiling arcs) -->
+    <path
+        android:strokeColor="#3C3C3C"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M34,56 Q40,50 46,56" />
+    <path
+        android:strokeColor="#3C3C3C"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M54,56 Q60,50 66,56" />
+
+    <!-- nose -->
+    <path
+        android:fillColor="#5B2EC9"
+        android:pathData="M46,61 L54,61 L50,66 Z" />
+
+    <!-- smiling mouth -->
+    <path
+        android:strokeColor="#3C3C3C"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M50,66 L50,69" />
+    <path
+        android:strokeColor="#3C3C3C"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M50,69 Q45,75 40,71" />
+    <path
+        android:strokeColor="#3C3C3C"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M50,69 Q55,75 60,71" />
+</vector>

@@ -1,0 +1,40 @@
+<resources>
+    <!-- Brand palette (purple) -->
+    <color name="purple">#7C4DFF</color>
+    <color name="purple_dark">#5B2EC9</color>
+    <color name="purple_light">#D6C7FF</color>
+    <color name="purple_pale">#EFE7FF</color>
+
+    <color name="blue">#1CB0F6</color>
+    <color name="blue_dark">#1899D6</color>
+    <color name="blue_light">#DDF4FF</color>
+
+    <color name="red">#FF4B4B</color>
+    <color name="red_dark">#EA2B2B</color>
+    <color name="red_light">#FFDFE0</color>
+
+    <color name="yellow">#FFC800</color>
+
+    <color name="text_dark">#3C3C3C</color>
+    <color name="text_muted">#777777</color>
+    <color name="text_hint">#AFAFAF</color>
+
+    <color name="border">#E5E5E5</color>
+    <color name="border_dark">#D6D6D6</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="background">#FFFFFF</color>
+    <color name="disabled">#E5E5E5</color>
+    <color name="disabled_dark">#CFCFCF</color>
+
+    <!-- Text drawn on a brand-colored (purple/blue) button. Stays light in both
+         light and dark mode, so it must NOT be tied to "surface". -->
+    <color name="text_on_accent">#FFFFFF</color>
+
+    <!-- launcher icon background -->
+    <color name="ic_launcher_background">#7C4DFF</color>
+
+    <!-- legacy aliases still referenced in code -->
+    <color name="brand">#7C4DFF</color>
+    <color name="correct">#7C4DFF</color>
+    <color name="wrong">#FF4B4B</color>
+</resources>

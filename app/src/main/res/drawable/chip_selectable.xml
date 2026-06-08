@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Selected: blue outline + pale fill -->
+    <item android:state_selected="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/blue_light" />
+            <stroke android:width="2dp" android:color="@color/blue" />
+            <corners android:radius="16dp" />
+        </shape>
+    </item>
+    <item android:state_activated="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/blue_light" />
+            <stroke android:width="2dp" android:color="@color/blue" />
+            <corners android:radius="16dp" />
+        </shape>
+    </item>
+
+    <!-- Default: plain bordered -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/surface" />
+            <stroke android:width="2dp" android:color="@color/border" />
+            <corners android:radius="16dp" />
+        </shape>
+    </item>
+</selector>

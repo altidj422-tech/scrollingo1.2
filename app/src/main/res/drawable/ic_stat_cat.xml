@@ -1,0 +1,21 @@
+<!-- Monochrome cat head for the status-bar / notification small icon. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="#FFFFFF">
+
+    <!-- ears -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,9 L7,3 L12,8 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,9 L17,3 L12,8 Z" />
+
+    <!-- head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M5,14 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+</vector>

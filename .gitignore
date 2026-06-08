@@ -1,0 +1,36 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Machine-specific SDK path (each dev sets their own)
+local.properties
+
+# Signing material — never commit
+*.keystore
+*.jks
+
+# Build artifacts
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Python (wordpack generator)
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings (personal, machine-specific)
+.claude/settings.local.json

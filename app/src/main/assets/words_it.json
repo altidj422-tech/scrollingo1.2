@@ -1,0 +1,2501 @@
+{
+  "language": "Italian",
+  "version": 2,
+  "words": [
+    {
+      "word": "uno",
+      "translation": "one",
+      "category": "numbers"
+    },
+    {
+      "word": "due",
+      "translation": "two",
+      "category": "numbers"
+    },
+    {
+      "word": "tre",
+      "translation": "three",
+      "category": "numbers"
+    },
+    {
+      "word": "quattro",
+      "translation": "four",
+      "category": "numbers"
+    },
+    {
+      "word": "cinque",
+      "translation": "five",
+      "category": "numbers"
+    },
+    {
+      "word": "sei",
+      "translation": "six",
+      "category": "numbers"
+    },
+    {
+      "word": "sette",
+      "translation": "seven",
+      "category": "numbers"
+    },
+    {
+      "word": "otto",
+      "translation": "eight",
+      "category": "numbers"
+    },
+    {
+      "word": "nove",
+      "translation": "nine",
+      "category": "numbers"
+    },
+    {
+      "word": "dieci",
+      "translation": "ten",
+      "category": "numbers"
+    },
+    {
+      "word": "undici",
+      "translation": "eleven",
+      "category": "numbers"
+    },
+    {
+      "word": "dodici",
+      "translation": "twelve",
+      "category": "numbers"
+    },
+    {
+      "word": "tredici",
+      "translation": "thirteen",
+      "category": "numbers"
+    },
+    {
+      "word": "quattordici",
+      "translation": "fourteen",
+      "category": "numbers"
+    },
+    {
+      "word": "quindici",
+      "translation": "fifteen",
+      "category": "numbers"
+    },
+    {
+      "word": "sedici",
+      "translation": "sixteen",
+      "category": "numbers"
+    },
+    {
+      "word": "diciassette",
+      "translation": "seventeen",
+      "category": "numbers"
+    },
+    {
+      "word": "diciotto",
+      "translation": "eighteen",
+      "category": "numbers"
+    },
+    {
+      "word": "diciannove",
+      "translation": "nineteen",
+      "category": "numbers"
+    },
+    {
+      "word": "venti",
+      "translation": "twenty",
+      "category": "numbers"
+    },
+    {
+      "word": "trenta",
+      "translation": "thirty",
+      "category": "numbers"
+    },
+    {
+      "word": "quaranta",
+      "translation": "forty",
+      "category": "numbers"
+    },
+    {
+      "word": "cinquanta",
+      "translation": "fifty",
+      "category": "numbers"
+    },
+    {
+      "word": "sessanta",
+      "translation": "sixty",
+      "category": "numbers"
+    },
+    {
+      "word": "settanta",
+      "translation": "seventy",
+      "category": "numbers"
+    },
+    {
+      "word": "ottanta",
+      "translation": "eighty",
+      "category": "numbers"
+    },
+    {
+      "word": "novanta",
+      "translation": "ninety",
+      "category": "numbers"
+    },
+    {
+      "word": "cento",
+      "translation": "hundred",
+      "category": "numbers"
+    },
+    {
+      "word": "mille",
+      "translation": "thousand",
+      "category": "numbers"
+    },
+    {
+      "word": "milione",
+      "translation": "million",
+      "category": "numbers"
+    },
+    {
+      "word": "rosso",
+      "translation": "red",
+      "category": "colors"
+    },
+    {
+      "word": "blu",
+      "translation": "blue",
+      "category": "colors"
+    },
+    {
+      "word": "verde",
+      "translation": "green",
+      "category": "colors"
+    },
+    {
+      "word": "giallo",
+      "translation": "yellow",
+      "category": "colors"
+    },
+    {
+      "word": "nero",
+      "translation": "black",
+      "category": "colors"
+    },
+    {
+      "word": "bianco",
+      "translation": "white",
+      "category": "colors"
+    },
+    {
+      "word": "arancione",
+      "translation": "orange",
+      "category": "colors"
+    },
+    {
+      "word": "marrone",
+      "translation": "brown",
+      "category": "colors"
+    },
+    {
+      "word": "rosa",
+      "translation": "pink",
+      "category": "colors"
+    },
+    {
+      "word": "viola",
+      "translation": "purple",
+      "category": "colors"
+    },
+    {
+      "word": "grigio",
+      "translation": "gray",
+      "category": "colors"
+    },
+    {
+      "word": "madre",
+      "translation": "mother",
+      "category": "people"
+    },
+    {
+      "word": "padre",
+      "translation": "father",
+      "category": "people"
+    },
+    {
+      "word": "fratello",
+      "translation": "brother",
+      "category": "people"
+    },
+    {
+      "word": "sorella",
+      "translation": "sister",
+      "category": "people"
+    },
+    {
+      "word": "figlio",
+      "translation": "son",
+      "category": "people"
+    },
+    {
+      "word": "figlia",
+      "translation": "daughter",
+      "category": "people"
+    },
+    {
+      "word": "famiglia",
+      "translation": "family",
+      "category": "people"
+    },
+    {
+      "word": "bebè",
+      "translation": "baby",
+      "category": "people"
+    },
+    {
+      "word": "uomo",
+      "translation": "man",
+      "category": "people"
+    },
+    {
+      "word": "donna",
+      "translation": "woman",
+      "category": "people"
+    },
+    {
+      "word": "bambino",
+      "translation": "child",
+      "category": "people"
+    },
+    {
+      "word": "amico",
+      "translation": "friend",
+      "category": "people"
+    },
+    {
+      "word": "gente",
+      "translation": "people",
+      "category": "people"
+    },
+    {
+      "word": "marito",
+      "translation": "husband",
+      "category": "people"
+    },
+    {
+      "word": "moglie",
+      "translation": "wife",
+      "category": "people"
+    },
+    {
+      "word": "nonno",
+      "translation": "grandfather",
+      "category": "people"
+    },
+    {
+      "word": "nonna",
+      "translation": "grandmother",
+      "category": "people"
+    },
+    {
+      "word": "zio",
+      "translation": "uncle",
+      "category": "people"
+    },
+    {
+      "word": "zia",
+      "translation": "aunt",
+      "category": "people"
+    },
+    {
+      "word": "cugino",
+      "translation": "cousin",
+      "category": "people"
+    },
+    {
+      "word": "vicino",
+      "translation": "neighbor",
+      "category": "people"
+    },
+    {
+      "word": "ospite",
+      "translation": "guest",
+      "category": "people"
+    },
+    {
+      "word": "mano",
+      "translation": "hand",
+      "category": "body"
+    },
+    {
+      "word": "occhio",
+      "translation": "eye",
+      "category": "body"
+    },
+    {
+      "word": "testa",
+      "translation": "head",
+      "category": "body"
+    },
+    {
+      "word": "cuore",
+      "translation": "heart",
+      "category": "body"
+    },
+    {
+      "word": "piede",
+      "translation": "foot",
+      "category": "body"
+    },
+    {
+      "word": "gamba",
+      "translation": "leg",
+      "category": "body"
+    },
+    {
+      "word": "braccio",
+      "translation": "arm",
+      "category": "body"
+    },
+    {
+      "word": "dito",
+      "translation": "finger",
+      "category": "body"
+    },
+    {
+      "word": "bocca",
+      "translation": "mouth",
+      "category": "body"
+    },
+    {
+      "word": "naso",
+      "translation": "nose",
+      "category": "body"
+    },
+    {
+      "word": "orecchio",
+      "translation": "ear",
+      "category": "body"
+    },
+    {
+      "word": "capelli",
+      "translation": "hair",
+      "category": "body"
+    },
+    {
+      "word": "dente",
+      "translation": "tooth",
+      "category": "body"
+    },
+    {
+      "word": "viso",
+      "translation": "face",
+      "category": "body"
+    },
+    {
+      "word": "collo",
+      "translation": "neck",
+      "category": "body"
+    },
+    {
+      "word": "schiena",
+      "translation": "back",
+      "category": "body"
+    },
+    {
+      "word": "pelle",
+      "translation": "skin",
+      "category": "body"
+    },
+    {
+      "word": "sangue",
+      "translation": "blood",
+      "category": "body"
+    },
+    {
+      "word": "osso",
+      "translation": "bone",
+      "category": "body"
+    },
+    {
+      "word": "cervello",
+      "translation": "brain",
+      "category": "body"
+    },
+    {
+      "word": "stomaco",
+      "translation": "stomach",
+      "category": "body"
+    },
+    {
+      "word": "ginocchio",
+      "translation": "knee",
+      "category": "body"
+    },
+    {
+      "word": "spalla",
+      "translation": "shoulder",
+      "category": "body"
+    },
+    {
+      "word": "voce",
+      "translation": "voice",
+      "category": "body"
+    },
+    {
+      "word": "cane",
+      "translation": "dog",
+      "category": "animals"
+    },
+    {
+      "word": "gatto",
+      "translation": "cat",
+      "category": "animals"
+    },
+    {
+      "word": "uccello",
+      "translation": "bird",
+      "category": "animals"
+    },
+    {
+      "word": "pesce",
+      "translation": "fish",
+      "category": "animals"
+    },
+    {
+      "word": "cavallo",
+      "translation": "horse",
+      "category": "animals"
+    },
+    {
+      "word": "mucca",
+      "translation": "cow",
+      "category": "animals"
+    },
+    {
+      "word": "leone",
+      "translation": "lion",
+      "category": "animals"
+    },
+    {
+      "word": "orso",
+      "translation": "bear",
+      "category": "animals"
+    },
+    {
+      "word": "maiale",
+      "translation": "pig",
+      "category": "animals"
+    },
+    {
+      "word": "pecora",
+      "translation": "sheep",
+      "category": "animals"
+    },
+    {
+      "word": "pollo",
+      "translation": "chicken",
+      "category": "animals"
+    },
+    {
+      "word": "anatra",
+      "translation": "duck",
+      "category": "animals"
+    },
+    {
+      "word": "coniglio",
+      "translation": "rabbit",
+      "category": "animals"
+    },
+    {
+      "word": "topo",
+      "translation": "mouse",
+      "category": "animals"
+    },
+    {
+      "word": "serpente",
+      "translation": "snake",
+      "category": "animals"
+    },
+    {
+      "word": "elefante",
+      "translation": "elephant",
+      "category": "animals"
+    },
+    {
+      "word": "scimmia",
+      "translation": "monkey",
+      "category": "animals"
+    },
+    {
+      "word": "lupo",
+      "translation": "wolf",
+      "category": "animals"
+    },
+    {
+      "word": "volpe",
+      "translation": "fox",
+      "category": "animals"
+    },
+    {
+      "word": "tigre",
+      "translation": "tiger",
+      "category": "animals"
+    },
+    {
+      "word": "ape",
+      "translation": "bee",
+      "category": "animals"
+    },
+    {
+      "word": "ragno",
+      "translation": "spider",
+      "category": "animals"
+    },
+    {
+      "word": "rana",
+      "translation": "frog",
+      "category": "animals"
+    },
+    {
+      "word": "insetto",
+      "translation": "insect",
+      "category": "animals"
+    },
+    {
+      "word": "capra",
+      "translation": "goat",
+      "category": "animals"
+    },
+    {
+      "word": "cervo",
+      "translation": "deer",
+      "category": "animals"
+    },
+    {
+      "word": "asino",
+      "translation": "donkey",
+      "category": "animals"
+    },
+    {
+      "word": "acqua",
+      "translation": "water",
+      "category": "food"
+    },
+    {
+      "word": "pane",
+      "translation": "bread",
+      "category": "food"
+    },
+    {
+      "word": "latte",
+      "translation": "milk",
+      "category": "food"
+    },
+    {
+      "word": "caffè",
+      "translation": "coffee",
+      "category": "food"
+    },
+    {
+      "word": "tè",
+      "translation": "tea",
+      "category": "food"
+    },
+    {
+      "word": "carne",
+      "translation": "meat",
+      "category": "food"
+    },
+    {
+      "word": "formaggio",
+      "translation": "cheese",
+      "category": "food"
+    },
+    {
+      "word": "uovo",
+      "translation": "egg",
+      "category": "food"
+    },
+    {
+      "word": "vino",
+      "translation": "wine",
+      "category": "food"
+    },
+    {
+      "word": "birra",
+      "translation": "beer",
+      "category": "food"
+    },
+    {
+      "word": "frutta",
+      "translation": "fruit",
+      "category": "food"
+    },
+    {
+      "word": "mela",
+      "translation": "apple",
+      "category": "food"
+    },
+    {
+      "word": "banana",
+      "translation": "banana",
+      "category": "food"
+    },
+    {
+      "word": "uva",
+      "translation": "grape",
+      "category": "food"
+    },
+    {
+      "word": "limone",
+      "translation": "lemon",
+      "category": "food"
+    },
+    {
+      "word": "zucchero",
+      "translation": "sugar",
+      "category": "food"
+    },
+    {
+      "word": "sale",
+      "translation": "salt",
+      "category": "food"
+    },
+    {
+      "word": "pepe",
+      "translation": "pepper",
+      "category": "food"
+    },
+    {
+      "word": "riso",
+      "translation": "rice",
+      "category": "food"
+    },
+    {
+      "word": "zuppa",
+      "translation": "soup",
+      "category": "food"
+    },
+    {
+      "word": "verdura",
+      "translation": "vegetable",
+      "category": "food"
+    },
+    {
+      "word": "patata",
+      "translation": "potato",
+      "category": "food"
+    },
+    {
+      "word": "pomodoro",
+      "translation": "tomato",
+      "category": "food"
+    },
+    {
+      "word": "cipolla",
+      "translation": "onion",
+      "category": "food"
+    },
+    {
+      "word": "burro",
+      "translation": "butter",
+      "category": "food"
+    },
+    {
+      "word": "cioccolato",
+      "translation": "chocolate",
+      "category": "food"
+    },
+    {
+      "word": "miele",
+      "translation": "honey",
+      "category": "food"
+    },
+    {
+      "word": "succo",
+      "translation": "juice",
+      "category": "food"
+    },
+    {
+      "word": "insalata",
+      "translation": "salad",
+      "category": "food"
+    },
+    {
+      "word": "torta",
+      "translation": "cake",
+      "category": "food"
+    },
+    {
+      "word": "gelato",
+      "translation": "ice cream",
+      "category": "food"
+    },
+    {
+      "word": "colazione",
+      "translation": "breakfast",
+      "category": "food"
+    },
+    {
+      "word": "pranzo",
+      "translation": "lunch",
+      "category": "food"
+    },
+    {
+      "word": "cena",
+      "translation": "dinner",
+      "category": "food"
+    },
+    {
+      "word": "pasto",
+      "translation": "meal",
+      "category": "food"
+    },
+    {
+      "word": "casa",
+      "translation": "house",
+      "category": "house"
+    },
+    {
+      "word": "porta",
+      "translation": "door",
+      "category": "house"
+    },
+    {
+      "word": "finestra",
+      "translation": "window",
+      "category": "house"
+    },
+    {
+      "word": "tavolo",
+      "translation": "table",
+      "category": "house"
+    },
+    {
+      "word": "sedia",
+      "translation": "chair",
+      "category": "house"
+    },
+    {
+      "word": "letto",
+      "translation": "bed",
+      "category": "house"
+    },
+    {
+      "word": "chiave",
+      "translation": "key",
+      "category": "house"
+    },
+    {
+      "word": "stanza",
+      "translation": "room",
+      "category": "house"
+    },
+    {
+      "word": "cucina",
+      "translation": "kitchen",
+      "category": "house"
+    },
+    {
+      "word": "bagno",
+      "translation": "bathroom",
+      "category": "house"
+    },
+    {
+      "word": "giardino",
+      "translation": "garden",
+      "category": "house"
+    },
+    {
+      "word": "muro",
+      "translation": "wall",
+      "category": "house"
+    },
+    {
+      "word": "pavimento",
+      "translation": "floor",
+      "category": "house"
+    },
+    {
+      "word": "tetto",
+      "translation": "roof",
+      "category": "house"
+    },
+    {
+      "word": "lampada",
+      "translation": "lamp",
+      "category": "house"
+    },
+    {
+      "word": "specchio",
+      "translation": "mirror",
+      "category": "house"
+    },
+    {
+      "word": "orologio",
+      "translation": "clock",
+      "category": "house"
+    },
+    {
+      "word": "telefono",
+      "translation": "phone",
+      "category": "house"
+    },
+    {
+      "word": "computer",
+      "translation": "computer",
+      "category": "house"
+    },
+    {
+      "word": "televisione",
+      "translation": "television",
+      "category": "house"
+    },
+    {
+      "word": "bottiglia",
+      "translation": "bottle",
+      "category": "house"
+    },
+    {
+      "word": "bicchiere",
+      "translation": "glass",
+      "category": "house"
+    },
+    {
+      "word": "tazza",
+      "translation": "cup",
+      "category": "house"
+    },
+    {
+      "word": "piatto",
+      "translation": "plate",
+      "category": "house"
+    },
+    {
+      "word": "cucchiaio",
+      "translation": "spoon",
+      "category": "house"
+    },
+    {
+      "word": "forchetta",
+      "translation": "fork",
+      "category": "house"
+    },
+    {
+      "word": "coltello",
+      "translation": "knife",
+      "category": "house"
+    },
+    {
+      "word": "sapone",
+      "translation": "soap",
+      "category": "house"
+    },
+    {
+      "word": "asciugamano",
+      "translation": "towel",
+      "category": "house"
+    },
+    {
+      "word": "scatola",
+      "translation": "box",
+      "category": "house"
+    },
+    {
+      "word": "borsa",
+      "translation": "bag",
+      "category": "house"
+    },
+    {
+      "word": "carta",
+      "translation": "paper",
+      "category": "house"
+    },
+    {
+      "word": "penna",
+      "translation": "pen",
+      "category": "house"
+    },
+    {
+      "word": "matita",
+      "translation": "pencil",
+      "category": "house"
+    },
+    {
+      "word": "foto",
+      "translation": "photo",
+      "category": "house"
+    },
+    {
+      "word": "camicia",
+      "translation": "shirt",
+      "category": "clothing"
+    },
+    {
+      "word": "pantaloni",
+      "translation": "pants",
+      "category": "clothing"
+    },
+    {
+      "word": "scarpa",
+      "translation": "shoe",
+      "category": "clothing"
+    },
+    {
+      "word": "cappello",
+      "translation": "hat",
+      "category": "clothing"
+    },
+    {
+      "word": "vestito",
+      "translation": "dress",
+      "category": "clothing"
+    },
+    {
+      "word": "cappotto",
+      "translation": "coat",
+      "category": "clothing"
+    },
+    {
+      "word": "calzino",
+      "translation": "sock",
+      "category": "clothing"
+    },
+    {
+      "word": "guanto",
+      "translation": "glove",
+      "category": "clothing"
+    },
+    {
+      "word": "gonna",
+      "translation": "skirt",
+      "category": "clothing"
+    },
+    {
+      "word": "giacca",
+      "translation": "jacket",
+      "category": "clothing"
+    },
+    {
+      "word": "anello",
+      "translation": "ring",
+      "category": "clothing"
+    },
+    {
+      "word": "occhiali",
+      "translation": "glasses",
+      "category": "clothing"
+    },
+    {
+      "word": "vestiti",
+      "translation": "clothes",
+      "category": "clothing"
+    },
+    {
+      "word": "città",
+      "translation": "city",
+      "category": "places"
+    },
+    {
+      "word": "strada",
+      "translation": "street",
+      "category": "places"
+    },
+    {
+      "word": "scuola",
+      "translation": "school",
+      "category": "places"
+    },
+    {
+      "word": "lavoro",
+      "translation": "work",
+      "category": "places"
+    },
+    {
+      "word": "negozio",
+      "translation": "shop",
+      "category": "places"
+    },
+    {
+      "word": "ospedale",
+      "translation": "hospital",
+      "category": "places"
+    },
+    {
+      "word": "parco",
+      "translation": "park",
+      "category": "places"
+    },
+    {
+      "word": "ristorante",
+      "translation": "restaurant",
+      "category": "places"
+    },
+    {
+      "word": "chiesa",
+      "translation": "church",
+      "category": "places"
+    },
+    {
+      "word": "mercato",
+      "translation": "market",
+      "category": "places"
+    },
+    {
+      "word": "banca",
+      "translation": "bank",
+      "category": "places"
+    },
+    {
+      "word": "aeroporto",
+      "translation": "airport",
+      "category": "places"
+    },
+    {
+      "word": "stazione",
+      "translation": "station",
+      "category": "places"
+    },
+    {
+      "word": "albergo",
+      "translation": "hotel",
+      "category": "places"
+    },
+    {
+      "word": "biblioteca",
+      "translation": "library",
+      "category": "places"
+    },
+    {
+      "word": "ufficio",
+      "translation": "office",
+      "category": "places"
+    },
+    {
+      "word": "fattoria",
+      "translation": "farm",
+      "category": "places"
+    },
+    {
+      "word": "villaggio",
+      "translation": "village",
+      "category": "places"
+    },
+    {
+      "word": "ponte",
+      "translation": "bridge",
+      "category": "places"
+    },
+    {
+      "word": "museo",
+      "translation": "museum",
+      "category": "places"
+    },
+    {
+      "word": "spiaggia",
+      "translation": "beach",
+      "category": "places"
+    },
+    {
+      "word": "paese",
+      "translation": "country",
+      "category": "places"
+    },
+    {
+      "word": "mondo",
+      "translation": "world",
+      "category": "places"
+    },
+    {
+      "word": "sole",
+      "translation": "sun",
+      "category": "nature"
+    },
+    {
+      "word": "luna",
+      "translation": "moon",
+      "category": "nature"
+    },
+    {
+      "word": "stella",
+      "translation": "star",
+      "category": "nature"
+    },
+    {
+      "word": "cielo",
+      "translation": "sky",
+      "category": "nature"
+    },
+    {
+      "word": "mare",
+      "translation": "sea",
+      "category": "nature"
+    },
+    {
+      "word": "fiume",
+      "translation": "river",
+      "category": "nature"
+    },
+    {
+      "word": "montagna",
+      "translation": "mountain",
+      "category": "nature"
+    },
+    {
+      "word": "albero",
+      "translation": "tree",
+      "category": "nature"
+    },
+    {
+      "word": "fiore",
+      "translation": "flower",
+      "category": "nature"
+    },
+    {
+      "word": "pioggia",
+      "translation": "rain",
+      "category": "nature"
+    },
+    {
+      "word": "neve",
+      "translation": "snow",
+      "category": "nature"
+    },
+    {
+      "word": "fuoco",
+      "translation": "fire",
+      "category": "nature"
+    },
+    {
+      "word": "vento",
+      "translation": "wind",
+      "category": "nature"
+    },
+    {
+      "word": "nuvola",
+      "translation": "cloud",
+      "category": "nature"
+    },
+    {
+      "word": "terra",
+      "translation": "earth",
+      "category": "nature"
+    },
+    {
+      "word": "pietra",
+      "translation": "stone",
+      "category": "nature"
+    },
+    {
+      "word": "bosco",
+      "translation": "forest",
+      "category": "nature"
+    },
+    {
+      "word": "lago",
+      "translation": "lake",
+      "category": "nature"
+    },
+    {
+      "word": "isola",
+      "translation": "island",
+      "category": "nature"
+    },
+    {
+      "word": "erba",
+      "translation": "grass",
+      "category": "nature"
+    },
+    {
+      "word": "foglia",
+      "translation": "leaf",
+      "category": "nature"
+    },
+    {
+      "word": "sabbia",
+      "translation": "sand",
+      "category": "nature"
+    },
+    {
+      "word": "campo",
+      "translation": "field",
+      "category": "nature"
+    },
+    {
+      "word": "aria",
+      "translation": "air",
+      "category": "nature"
+    },
+    {
+      "word": "luce",
+      "translation": "light",
+      "category": "nature"
+    },
+    {
+      "word": "giorno",
+      "translation": "day",
+      "category": "time"
+    },
+    {
+      "word": "notte",
+      "translation": "night",
+      "category": "time"
+    },
+    {
+      "word": "mattina",
+      "translation": "morning",
+      "category": "time"
+    },
+    {
+      "word": "sera",
+      "translation": "evening",
+      "category": "time"
+    },
+    {
+      "word": "oggi",
+      "translation": "today",
+      "category": "time"
+    },
+    {
+      "word": "ieri",
+      "translation": "yesterday",
+      "category": "time"
+    },
+    {
+      "word": "settimana",
+      "translation": "week",
+      "category": "time"
+    },
+    {
+      "word": "mese",
+      "translation": "month",
+      "category": "time"
+    },
+    {
+      "word": "anno",
+      "translation": "year",
+      "category": "time"
+    },
+    {
+      "word": "ora",
+      "translation": "hour",
+      "category": "time"
+    },
+    {
+      "word": "minuto",
+      "translation": "minute",
+      "category": "time"
+    },
+    {
+      "word": "secondo",
+      "translation": "second",
+      "category": "time"
+    },
+    {
+      "word": "tempo",
+      "translation": "time",
+      "category": "time"
+    },
+    {
+      "word": "momento",
+      "translation": "moment",
+      "category": "time"
+    },
+    {
+      "word": "lunedì",
+      "translation": "Monday",
+      "category": "time"
+    },
+    {
+      "word": "martedì",
+      "translation": "Tuesday",
+      "category": "time"
+    },
+    {
+      "word": "mercoledì",
+      "translation": "Wednesday",
+      "category": "time"
+    },
+    {
+      "word": "giovedì",
+      "translation": "Thursday",
+      "category": "time"
+    },
+    {
+      "word": "venerdì",
+      "translation": "Friday",
+      "category": "time"
+    },
+    {
+      "word": "sabato",
+      "translation": "Saturday",
+      "category": "time"
+    },
+    {
+      "word": "domenica",
+      "translation": "Sunday",
+      "category": "time"
+    },
+    {
+      "word": "gennaio",
+      "translation": "January",
+      "category": "time"
+    },
+    {
+      "word": "febbraio",
+      "translation": "February",
+      "category": "time"
+    },
+    {
+      "word": "marzo",
+      "translation": "March",
+      "category": "time"
+    },
+    {
+      "word": "aprile",
+      "translation": "April",
+      "category": "time"
+    },
+    {
+      "word": "maggio",
+      "translation": "May",
+      "category": "time"
+    },
+    {
+      "word": "giugno",
+      "translation": "June",
+      "category": "time"
+    },
+    {
+      "word": "luglio",
+      "translation": "July",
+      "category": "time"
+    },
+    {
+      "word": "agosto",
+      "translation": "August",
+      "category": "time"
+    },
+    {
+      "word": "settembre",
+      "translation": "September",
+      "category": "time"
+    },
+    {
+      "word": "ottobre",
+      "translation": "October",
+      "category": "time"
+    },
+    {
+      "word": "novembre",
+      "translation": "November",
+      "category": "time"
+    },
+    {
+      "word": "dicembre",
+      "translation": "December",
+      "category": "time"
+    },
+    {
+      "word": "mangiare",
+      "translation": "to eat",
+      "category": "verbs"
+    },
+    {
+      "word": "bere",
+      "translation": "to drink",
+      "category": "verbs"
+    },
+    {
+      "word": "correre",
+      "translation": "to run",
+      "category": "verbs"
+    },
+    {
+      "word": "dormire",
+      "translation": "to sleep",
+      "category": "verbs"
+    },
+    {
+      "word": "andare",
+      "translation": "to go",
+      "category": "verbs"
+    },
+    {
+      "word": "venire",
+      "translation": "to come",
+      "category": "verbs"
+    },
+    {
+      "word": "vedere",
+      "translation": "to see",
+      "category": "verbs"
+    },
+    {
+      "word": "guardare",
+      "translation": "to look",
+      "category": "verbs"
+    },
+    {
+      "word": "ascoltare",
+      "translation": "to listen",
+      "category": "verbs"
+    },
+    {
+      "word": "parlare",
+      "translation": "to speak",
+      "category": "verbs"
+    },
+    {
+      "word": "dire",
+      "translation": "to say",
+      "category": "verbs"
+    },
+    {
+      "word": "leggere",
+      "translation": "to read",
+      "category": "verbs"
+    },
+    {
+      "word": "scrivere",
+      "translation": "to write",
+      "category": "verbs"
+    },
+    {
+      "word": "volere",
+      "translation": "to want",
+      "category": "verbs"
+    },
+    {
+      "word": "avere",
+      "translation": "to have",
+      "category": "verbs"
+    },
+    {
+      "word": "amare",
+      "translation": "to love",
+      "category": "verbs"
+    },
+    {
+      "word": "lavorare",
+      "translation": "to work",
+      "category": "verbs"
+    },
+    {
+      "word": "comprare",
+      "translation": "to buy",
+      "category": "verbs"
+    },
+    {
+      "word": "vendere",
+      "translation": "to sell",
+      "category": "verbs"
+    },
+    {
+      "word": "pagare",
+      "translation": "to pay",
+      "category": "verbs"
+    },
+    {
+      "word": "dare",
+      "translation": "to give",
+      "category": "verbs"
+    },
+    {
+      "word": "prendere",
+      "translation": "to take",
+      "category": "verbs"
+    },
+    {
+      "word": "portare",
+      "translation": "to bring",
+      "category": "verbs"
+    },
+    {
+      "word": "inviare",
+      "translation": "to send",
+      "category": "verbs"
+    },
+    {
+      "word": "fare",
+      "translation": "to make",
+      "category": "verbs"
+    },
+    {
+      "word": "sapere",
+      "translation": "to know",
+      "category": "verbs"
+    },
+    {
+      "word": "pensare",
+      "translation": "to think",
+      "category": "verbs"
+    },
+    {
+      "word": "credere",
+      "translation": "to believe",
+      "category": "verbs"
+    },
+    {
+      "word": "trovare",
+      "translation": "to find",
+      "category": "verbs"
+    },
+    {
+      "word": "aprire",
+      "translation": "to open",
+      "category": "verbs"
+    },
+    {
+      "word": "chiudere",
+      "translation": "to close",
+      "category": "verbs"
+    },
+    {
+      "word": "giocare",
+      "translation": "to play",
+      "category": "verbs"
+    },
+    {
+      "word": "cantare",
+      "translation": "to sing",
+      "category": "verbs"
+    },
+    {
+      "word": "ballare",
+      "translation": "to dance",
+      "category": "verbs"
+    },
+    {
+      "word": "imparare",
+      "translation": "to learn",
+      "category": "verbs"
+    },
+    {
+      "word": "insegnare",
+      "translation": "to teach",
+      "category": "verbs"
+    },
+    {
+      "word": "capire",
+      "translation": "to understand",
+      "category": "verbs"
+    },
+    {
+      "word": "chiedere",
+      "translation": "to ask",
+      "category": "verbs"
+    },
+    {
+      "word": "rispondere",
+      "translation": "to answer",
+      "category": "verbs"
+    },
+    {
+      "word": "aiutare",
+      "translation": "to help",
+      "category": "verbs"
+    },
+    {
+      "word": "necessitare",
+      "translation": "to need",
+      "category": "verbs"
+    },
+    {
+      "word": "vivere",
+      "translation": "to live",
+      "category": "verbs"
+    },
+    {
+      "word": "morire",
+      "translation": "to die",
+      "category": "verbs"
+    },
+    {
+      "word": "aspettare",
+      "translation": "to wait",
+      "category": "verbs"
+    },
+    {
+      "word": "cominciare",
+      "translation": "to begin",
+      "category": "verbs"
+    },
+    {
+      "word": "finire",
+      "translation": "to finish",
+      "category": "verbs"
+    },
+    {
+      "word": "mettere",
+      "translation": "to put",
+      "category": "verbs"
+    },
+    {
+      "word": "chiamare",
+      "translation": "to call",
+      "category": "verbs"
+    },
+    {
+      "word": "sentire",
+      "translation": "to feel",
+      "category": "verbs"
+    },
+    {
+      "word": "partire",
+      "translation": "to leave",
+      "category": "verbs"
+    },
+    {
+      "word": "perdere",
+      "translation": "to lose",
+      "category": "verbs"
+    },
+    {
+      "word": "vincere",
+      "translation": "to win",
+      "category": "verbs"
+    },
+    {
+      "word": "guidare",
+      "translation": "to drive",
+      "category": "verbs"
+    },
+    {
+      "word": "volare",
+      "translation": "to fly",
+      "category": "verbs"
+    },
+    {
+      "word": "lavare",
+      "translation": "to wash",
+      "category": "verbs"
+    },
+    {
+      "word": "cucinare",
+      "translation": "to cook",
+      "category": "verbs"
+    },
+    {
+      "word": "tagliare",
+      "translation": "to cut",
+      "category": "verbs"
+    },
+    {
+      "word": "indossare",
+      "translation": "to wear",
+      "category": "verbs"
+    },
+    {
+      "word": "restare",
+      "translation": "to stay",
+      "category": "verbs"
+    },
+    {
+      "word": "cambiare",
+      "translation": "to change",
+      "category": "verbs"
+    },
+    {
+      "word": "ricordare",
+      "translation": "to remember",
+      "category": "verbs"
+    },
+    {
+      "word": "dimenticare",
+      "translation": "to forget",
+      "category": "verbs"
+    },
+    {
+      "word": "rompere",
+      "translation": "to break",
+      "category": "verbs"
+    },
+    {
+      "word": "grande",
+      "translation": "big",
+      "category": "adjectives"
+    },
+    {
+      "word": "piccolo",
+      "translation": "small",
+      "category": "adjectives"
+    },
+    {
+      "word": "buono",
+      "translation": "good",
+      "category": "adjectives"
+    },
+    {
+      "word": "cattivo",
+      "translation": "bad",
+      "category": "adjectives"
+    },
+    {
+      "word": "caldo",
+      "translation": "hot",
+      "category": "adjectives"
+    },
+    {
+      "word": "freddo",
+      "translation": "cold",
+      "category": "adjectives"
+    },
+    {
+      "word": "nuovo",
+      "translation": "new",
+      "category": "adjectives"
+    },
+    {
+      "word": "vecchio",
+      "translation": "old",
+      "category": "adjectives"
+    },
+    {
+      "word": "felice",
+      "translation": "happy",
+      "category": "adjectives"
+    },
+    {
+      "word": "triste",
+      "translation": "sad",
+      "category": "adjectives"
+    },
+    {
+      "word": "veloce",
+      "translation": "fast",
+      "category": "adjectives"
+    },
+    {
+      "word": "lento",
+      "translation": "slow",
+      "category": "adjectives"
+    },
+    {
+      "word": "bello",
+      "translation": "beautiful",
+      "category": "adjectives"
+    },
+    {
+      "word": "brutto",
+      "translation": "ugly",
+      "category": "adjectives"
+    },
+    {
+      "word": "facile",
+      "translation": "easy",
+      "category": "adjectives"
+    },
+    {
+      "word": "difficile",
+      "translation": "difficult",
+      "category": "adjectives"
+    },
+    {
+      "word": "lungo",
+      "translation": "long",
+      "category": "adjectives"
+    },
+    {
+      "word": "corto",
+      "translation": "short",
+      "category": "adjectives"
+    },
+    {
+      "word": "alto",
+      "translation": "tall",
+      "category": "adjectives"
+    },
+    {
+      "word": "basso",
+      "translation": "low",
+      "category": "adjectives"
+    },
+    {
+      "word": "forte",
+      "translation": "strong",
+      "category": "adjectives"
+    },
+    {
+      "word": "debole",
+      "translation": "weak",
+      "category": "adjectives"
+    },
+    {
+      "word": "ricco",
+      "translation": "rich",
+      "category": "adjectives"
+    },
+    {
+      "word": "povero",
+      "translation": "poor",
+      "category": "adjectives"
+    },
+    {
+      "word": "giovane",
+      "translation": "young",
+      "category": "adjectives"
+    },
+    {
+      "word": "pieno",
+      "translation": "full",
+      "category": "adjectives"
+    },
+    {
+      "word": "vuoto",
+      "translation": "empty",
+      "category": "adjectives"
+    },
+    {
+      "word": "pulito",
+      "translation": "clean",
+      "category": "adjectives"
+    },
+    {
+      "word": "sporco",
+      "translation": "dirty",
+      "category": "adjectives"
+    },
+    {
+      "word": "scuro",
+      "translation": "dark",
+      "category": "adjectives"
+    },
+    {
+      "word": "chiaro",
+      "translation": "bright",
+      "category": "adjectives"
+    },
+    {
+      "word": "pesante",
+      "translation": "heavy",
+      "category": "adjectives"
+    },
+    {
+      "word": "leggero",
+      "translation": "light (not heavy)",
+      "category": "adjectives"
+    },
+    {
+      "word": "caro",
+      "translation": "expensive",
+      "category": "adjectives"
+    },
+    {
+      "word": "economico",
+      "translation": "cheap",
+      "category": "adjectives"
+    },
+    {
+      "word": "corretto",
+      "translation": "correct",
+      "category": "adjectives"
+    },
+    {
+      "word": "sbagliato",
+      "translation": "wrong",
+      "category": "adjectives"
+    },
+    {
+      "word": "vero",
+      "translation": "true",
+      "category": "adjectives"
+    },
+    {
+      "word": "importante",
+      "translation": "important",
+      "category": "adjectives"
+    },
+    {
+      "word": "diverso",
+      "translation": "different",
+      "category": "adjectives"
+    },
+    {
+      "word": "stesso",
+      "translation": "same",
+      "category": "adjectives"
+    },
+    {
+      "word": "pronto",
+      "translation": "ready",
+      "category": "adjectives"
+    },
+    {
+      "word": "stanco",
+      "translation": "tired",
+      "category": "adjectives"
+    },
+    {
+      "word": "affamato",
+      "translation": "hungry",
+      "category": "adjectives"
+    },
+    {
+      "word": "arrabbiato",
+      "translation": "angry",
+      "category": "adjectives"
+    },
+    {
+      "word": "spaventato",
+      "translation": "afraid",
+      "category": "adjectives"
+    },
+    {
+      "word": "malato",
+      "translation": "sick",
+      "category": "adjectives"
+    },
+    {
+      "word": "sano",
+      "translation": "healthy",
+      "category": "adjectives"
+    },
+    {
+      "word": "libero",
+      "translation": "free",
+      "category": "adjectives"
+    },
+    {
+      "word": "occupato",
+      "translation": "busy",
+      "category": "adjectives"
+    },
+    {
+      "word": "morbido",
+      "translation": "soft",
+      "category": "adjectives"
+    },
+    {
+      "word": "duro",
+      "translation": "hard",
+      "category": "adjectives"
+    },
+    {
+      "word": "profondo",
+      "translation": "deep",
+      "category": "adjectives"
+    },
+    {
+      "word": "largo",
+      "translation": "wide",
+      "category": "adjectives"
+    },
+    {
+      "word": "stretto",
+      "translation": "narrow",
+      "category": "adjectives"
+    },
+    {
+      "word": "tranquillo",
+      "translation": "quiet",
+      "category": "adjectives"
+    },
+    {
+      "word": "rumoroso",
+      "translation": "loud",
+      "category": "adjectives"
+    },
+    {
+      "word": "secco",
+      "translation": "dry",
+      "category": "adjectives"
+    },
+    {
+      "word": "bagnato",
+      "translation": "wet",
+      "category": "adjectives"
+    },
+    {
+      "word": "dolce",
+      "translation": "sweet",
+      "category": "adjectives"
+    },
+    {
+      "word": "amaro",
+      "translation": "bitter",
+      "category": "adjectives"
+    },
+    {
+      "word": "grasso",
+      "translation": "fat",
+      "category": "adjectives"
+    },
+    {
+      "word": "magro",
+      "translation": "thin",
+      "category": "adjectives"
+    },
+    {
+      "word": "amore",
+      "translation": "love",
+      "category": "abstract"
+    },
+    {
+      "word": "libro",
+      "translation": "book",
+      "category": "abstract"
+    },
+    {
+      "word": "denaro",
+      "translation": "money",
+      "category": "abstract"
+    },
+    {
+      "word": "nome",
+      "translation": "name",
+      "category": "abstract"
+    },
+    {
+      "word": "parola",
+      "translation": "word",
+      "category": "abstract"
+    },
+    {
+      "word": "vita",
+      "translation": "life",
+      "category": "abstract"
+    },
+    {
+      "word": "musica",
+      "translation": "music",
+      "category": "abstract"
+    },
+    {
+      "word": "lingua",
+      "translation": "language",
+      "category": "abstract"
+    },
+    {
+      "word": "domanda",
+      "translation": "question",
+      "category": "abstract"
+    },
+    {
+      "word": "risposta",
+      "translation": "answer",
+      "category": "abstract"
+    },
+    {
+      "word": "problema",
+      "translation": "problem",
+      "category": "abstract"
+    },
+    {
+      "word": "idea",
+      "translation": "idea",
+      "category": "abstract"
+    },
+    {
+      "word": "storia",
+      "translation": "story",
+      "category": "abstract"
+    },
+    {
+      "word": "numero",
+      "translation": "number",
+      "category": "abstract"
+    },
+    {
+      "word": "lettera",
+      "translation": "letter",
+      "category": "abstract"
+    },
+    {
+      "word": "guerra",
+      "translation": "war",
+      "category": "abstract"
+    },
+    {
+      "word": "pace",
+      "translation": "peace",
+      "category": "abstract"
+    },
+    {
+      "word": "verità",
+      "translation": "truth",
+      "category": "abstract"
+    },
+    {
+      "word": "potere",
+      "translation": "power",
+      "category": "abstract"
+    },
+    {
+      "word": "dio",
+      "translation": "god",
+      "category": "abstract"
+    },
+    {
+      "word": "morte",
+      "translation": "death",
+      "category": "abstract"
+    },
+    {
+      "word": "sogno",
+      "translation": "dream",
+      "category": "abstract"
+    },
+    {
+      "word": "speranza",
+      "translation": "hope",
+      "category": "abstract"
+    },
+    {
+      "word": "paura",
+      "translation": "fear",
+      "category": "abstract"
+    },
+    {
+      "word": "gioia",
+      "translation": "joy",
+      "category": "abstract"
+    },
+    {
+      "word": "colore",
+      "translation": "color",
+      "category": "abstract"
+    },
+    {
+      "word": "suono",
+      "translation": "sound",
+      "category": "abstract"
+    },
+    {
+      "word": "gioco",
+      "translation": "game",
+      "category": "abstract"
+    },
+    {
+      "word": "festa",
+      "translation": "party",
+      "category": "abstract"
+    },
+    {
+      "word": "regalo",
+      "translation": "gift",
+      "category": "abstract"
+    },
+    {
+      "word": "prezzo",
+      "translation": "price",
+      "category": "abstract"
+    },
+    {
+      "word": "arte",
+      "translation": "art",
+      "category": "abstract"
+    },
+    {
+      "word": "scienza",
+      "translation": "science",
+      "category": "abstract"
+    },
+    {
+      "word": "notizie",
+      "translation": "news",
+      "category": "abstract"
+    },
+    {
+      "word": "impiego",
+      "translation": "job",
+      "category": "abstract"
+    },
+    {
+      "word": "salute",
+      "translation": "health",
+      "category": "abstract"
+    },
+    {
+      "word": "natura",
+      "translation": "nature",
+      "category": "abstract"
+    },
+    {
+      "word": "macchina",
+      "translation": "car",
+      "category": "transport"
+    },
+    {
+      "word": "autobus",
+      "translation": "bus",
+      "category": "transport"
+    },
+    {
+      "word": "treno",
+      "translation": "train",
+      "category": "transport"
+    },
+    {
+      "word": "aereo",
+      "translation": "plane",
+      "category": "transport"
+    },
+    {
+      "word": "bicicletta",
+      "translation": "bicycle",
+      "category": "transport"
+    },
+    {
+      "word": "barca",
+      "translation": "boat",
+      "category": "transport"
+    },
+    {
+      "word": "nave",
+      "translation": "ship",
+      "category": "transport"
+    },
+    {
+      "word": "camion",
+      "translation": "truck",
+      "category": "transport"
+    },
+    {
+      "word": "moto",
+      "translation": "motorcycle",
+      "category": "transport"
+    },
+    {
+      "word": "biglietto",
+      "translation": "ticket",
+      "category": "transport"
+    },
+    {
+      "word": "medico",
+      "translation": "doctor",
+      "category": "professions"
+    },
+    {
+      "word": "insegnante",
+      "translation": "teacher",
+      "category": "professions"
+    },
+    {
+      "word": "studente",
+      "translation": "student",
+      "category": "professions"
+    },
+    {
+      "word": "infermiere",
+      "translation": "nurse",
+      "category": "professions"
+    },
+    {
+      "word": "polizia",
+      "translation": "police",
+      "category": "professions"
+    },
+    {
+      "word": "agricoltore",
+      "translation": "farmer",
+      "category": "professions"
+    },
+    {
+      "word": "cuoco",
+      "translation": "cook",
+      "category": "professions"
+    },
+    {
+      "word": "autista",
+      "translation": "driver",
+      "category": "professions"
+    },
+    {
+      "word": "scrittore",
+      "translation": "writer",
+      "category": "professions"
+    },
+    {
+      "word": "cantante",
+      "translation": "singer",
+      "category": "professions"
+    },
+    {
+      "word": "artista",
+      "translation": "artist",
+      "category": "professions"
+    },
+    {
+      "word": "re",
+      "translation": "king",
+      "category": "professions"
+    },
+    {
+      "word": "regina",
+      "translation": "queen",
+      "category": "professions"
+    },
+    {
+      "word": "soldato",
+      "translation": "soldier",
+      "category": "professions"
+    },
+    {
+      "word": "avvocato",
+      "translation": "lawyer",
+      "category": "professions"
+    },
+    {
+      "word": "io",
+      "translation": "I",
+      "category": "grammar"
+    },
+    {
+      "word": "tu",
+      "translation": "you",
+      "category": "grammar"
+    },
+    {
+      "word": "lui",
+      "translation": "he",
+      "category": "grammar"
+    },
+    {
+      "word": "lei",
+      "translation": "she",
+      "category": "grammar"
+    },
+    {
+      "word": "noi",
+      "translation": "we",
+      "category": "grammar"
+    },
+    {
+      "word": "chi",
+      "translation": "who",
+      "category": "grammar"
+    },
+    {
+      "word": "cosa",
+      "translation": "what",
+      "category": "grammar"
+    },
+    {
+      "word": "dove",
+      "translation": "where",
+      "category": "grammar"
+    },
+    {
+      "word": "quando",
+      "translation": "when",
+      "category": "grammar"
+    },
+    {
+      "word": "perché",
+      "translation": "why",
+      "category": "grammar"
+    },
+    {
+      "word": "come",
+      "translation": "how",
+      "category": "grammar"
+    },
+    {
+      "word": "quale",
+      "translation": "which",
+      "category": "grammar"
+    },
+    {
+      "word": "qui",
+      "translation": "here",
+      "category": "grammar"
+    },
+    {
+      "word": "lì",
+      "translation": "there",
+      "category": "grammar"
+    },
+    {
+      "word": "adesso",
+      "translation": "now",
+      "category": "grammar"
+    },
+    {
+      "word": "sempre",
+      "translation": "always",
+      "category": "grammar"
+    },
+    {
+      "word": "mai",
+      "translation": "never",
+      "category": "grammar"
+    },
+    {
+      "word": "e",
+      "translation": "and",
+      "category": "grammar"
+    },
+    {
+      "word": "ma",
+      "translation": "but",
+      "category": "grammar"
+    },
+    {
+      "word": "con",
+      "translation": "with",
+      "category": "grammar"
+    },
+    {
+      "word": "senza",
+      "translation": "without",
+      "category": "grammar"
+    },
+    {
+      "word": "ciao",
+      "translation": "hello",
+      "category": "phrases"
+    },
+    {
+      "word": "arrivederci",
+      "translation": "goodbye",
+      "category": "phrases"
+    },
+    {
+      "word": "grazie",
+      "translation": "thank you",
+      "category": "phrases"
+    },
+    {
+      "word": "per favore",
+      "translation": "please",
+      "category": "phrases"
+    },
+    {
+      "word": "scusa",
+      "translation": "sorry",
+      "category": "phrases"
+    },
+    {
+      "word": "sì",
+      "translation": "yes",
+      "category": "phrases"
+    },
+    {
+      "word": "no",
+      "translation": "no",
+      "category": "phrases"
+    },
+    {
+      "word": "buonanotte",
+      "translation": "good night",
+      "category": "phrases"
+    },
+    {
+      "word": "benvenuto",
+      "translation": "welcome",
+      "category": "phrases"
+    },
+    {
+      "word": "congratulazioni",
+      "translation": "congratulations",
+      "category": "phrases"
+    },
+    {
+      "word": "forse",
+      "translation": "maybe",
+      "category": "phrases"
+    },
+    {
+      "word": "certo",
+      "translation": "of course",
+      "category": "phrases"
+    }
+  ]
+}

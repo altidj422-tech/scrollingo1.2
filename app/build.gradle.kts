@@ -42,6 +42,13 @@ android {
     kotlinOptions {
         jvmTarget = "17"
     }
+
+    testOptions {
+        unitTests {
+            // Surface assertion failures from JVM unit tests in the console.
+            all { it.testLogging { events("passed", "skipped", "failed") } }
+        }
+    }
 }
 
 dependencies {
@@ -49,4 +56,10 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.7.0")
     implementation("com.google.android.material:material:1.12.0")
     implementation("androidx.work:work-runtime-ktx:2.9.1")
+
+    // Test-only. These never reach the APK.
+    testImplementation("junit:junit:4.13.2")
+    // Real org.json on the JVM: the android.jar stub returns null for every
+    // method, so Dictionary's parser cannot be tested without it.
+    testImplementation("org.json:json:20240303")
 }
